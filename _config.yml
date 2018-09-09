@@ -30,7 +30,7 @@ navigation: # Navigation links
 tagline: >
   PhD Student in Transportation Engineering at the University of Texas at Austin 
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: /assets/img/main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: nzuniga@utexas.edu # email for form submission
 
