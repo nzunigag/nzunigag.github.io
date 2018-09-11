@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Research', link: '/research'}
   - {name: 'Teaching', link: '/teaching'}
   - {name: 'Leadership', link: '/leadership'}
-  - {name: 'Activities', link: '/actvities'}
+  - {name: 'Activities', link: '/activities'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
