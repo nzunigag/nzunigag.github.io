@@ -49,7 +49,7 @@ Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFO
 
 
 # Thesis and Technical Reports
-___________
+
 
 <b> 6. Zuniga-Garcia, N.</b> (2018). Spatial Pricing Empirical Evaluation of Ride-Sourcing
 Trips Using the Graph-Fused Lasso for Total Variation Denoising (Master's Thesis Report). The University of Texas at Austin, Austin, TX, United States.
