@@ -4,11 +4,10 @@ title: Research
 permalink: /research/
 ---
 
-[Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.](../research/pub/Multimodal Level of Service.pdf/)
+
   
 ## Publications
 ___
-<p align="justify">
 <b>6. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
 <br>
 <b>5. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for publication in <i>Transportation Research Part C</i>.
@@ -20,7 +19,7 @@ ___
 <b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia </b>, and J.B. Hernandez. (2018). Field Investigation of Relationship between Pavement Surface Texture and Friction. Transportation Research Record, 0361198118777384.
 <br>
 <b>1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). Economic Analysis of Pavement Preservation Techniques. Transportation Research Record, 0361198118768515.
-</p>
+
 
 ## Presentations
 ___
