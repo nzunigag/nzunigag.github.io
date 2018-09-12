@@ -62,7 +62,7 @@ ___
 <b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas. Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
 </p>
 
-## Thesis
+## Theses
 ____
 <p align="justify">
 <b>3. Zuniga-Garcia, N.</b> (2018). Spatial Pricing Empirical Evaluation of Ride-Sourcing
