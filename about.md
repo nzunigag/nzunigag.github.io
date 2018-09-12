@@ -21,3 +21,7 @@ ___
 <br>
 - <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 </p>
+
+## Download
+____
+<a href="/downloads/Natalia_ZunigaGarcia.pdf" download>
