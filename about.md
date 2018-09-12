@@ -15,10 +15,11 @@ Hello! I am a Ph.D. student in Transportation Engineering at the University of T
 ### Education
 ___
 <p align="justify">
-- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering</i> | <i>Transportation Eng.</i><p align="right"> May 2020 <i>(Expected)</i></p>
-- The University of Texas at Austin M.Sc. in Statistics and Data Sciences \hfill May 2018
+- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng.</i> | May 2020 <i>(Expected)</i>
 <br>
-- The University of Texas at Austin M.Sc. in Civil Engineering  | Infrastructure Materials}\hfill May 2017
+- <b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018 
 <br>
-- University of Costa Rica B.Sc. in Civil Engineering December 2012
+- <b>The University of Texas at Austin</b> <i>M.Sc. in Civil Engineering - Infrastructure Materials</i> | May 2017
+<br>
+- <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 </p>
