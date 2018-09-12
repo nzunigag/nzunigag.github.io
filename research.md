@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+<p align="justify">
+  
 ## Publications
 ___
 <b>6. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
@@ -63,3 +65,4 @@ Trips Using the Graph-Fused Lasso for Total Variation Denoising (Master's Thesis
 <b>2. Zuniga-Garcia, N.</b> (2017). Predicting Friction with Improved Texture Characterization (Master's Thesis). The University of Texas at Austin, Austin, TX, United States. 
 <br>
 <b>1. Zuniga-Garcia, N.</b> (2012). Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio (Licentiate's Thesis). University of Costa Rica, San José, Costa Rica.
+</p>
