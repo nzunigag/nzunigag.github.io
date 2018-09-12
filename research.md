@@ -15,7 +15,7 @@ ___
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Under review for publication in <i>Transportation Research Record</i>. 
 <br>
-<b>3. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.]({{ site.baseurl }}/research/pub/Multimodal Level of Service.pdf) Transportation Research Record, 0361198118776112.
+<b>3. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.]({{ site.baseurl }}/research/pub/MultimodalLevelofService.pdf) Transportation Research Record, 0361198118776112.
 <br>
 <b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia </b>, and J.B. Hernandez. (2018). Field Investigation of Relationship between Pavement Surface Texture and Friction. Transportation Research Record, 0361198118777384.
 <br>
