@@ -13,7 +13,7 @@ ___
 <b> 2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia </b>, and J.B. Hernandez. (2018). Field Investigation of Relationship between Pavement Surface Texture and Friction. Transportation Research Record, 0361198118777384.
 <b> 1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). Economic Analysis of Pavement Preservation Techniques. Transportation Research Record, 0361198118768515.
 
-# Presentations
+## Presentations
 ___
 <b> 13. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for presentation in <i>98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019</i>.  
 <b> 12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Under review for presentation in <i> 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019</i>.
@@ -30,7 +30,7 @@ Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFO
 <b> 2. Zuniga-Garcia, N.</b>, A. de Fortier Smit, M. Trevino, P. Buddhavarapu,  and J.A. Prozzi. (2015). Laboratory Design of Quieter Asphalt Surfaces. 27th Annual Road Profile Users’ Group (RPUG) Meeting, Raleigh, NC, November 2015.
 <b> 1. Zuniga-Garcia, N.</b>, and F. Elizondo-Arrieta (2013). Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio. XVII Congreso Ibero Latinoamericano del Asfalto (CILA), Antigua, Guatemala, November 2013.
 
-# Thesis and Technical Reports
+## Thesis and Technical Reports
 ____
 <b> 6. Zuniga-Garcia, N.</b> (2018). Spatial Pricing Empirical Evaluation of Ride-Sourcing
 Trips Using the Graph-Fused Lasso for Total Variation Denoising (Master's Thesis Report). The University of Texas at Austin, Austin, TX, United States.
