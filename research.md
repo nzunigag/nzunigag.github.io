@@ -20,12 +20,12 @@ permalink: /research/
 
 # Presentations
 
-<b> 13. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for presentation in <i>98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019 </i>.  
+<b> 13. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for presentation in <i>98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019</i>.  
 
-<b> 12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Under review for presentation in <i> 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019 </i>.
+<b> 12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Under review for presentation in <i> 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019</i>.
 
 <b> 11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A
-Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018 </i>.
+Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018</i>.
 
 <b> 10. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors. 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 
