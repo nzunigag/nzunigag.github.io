@@ -21,7 +21,7 @@ ___
 <b>1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). Economic Analysis of Pavement Preservation Techniques. Transportation Research Record, 0361198118768515.
 
 
-## Presentations
+## Conference Proceedings
 ___
 <p align="justify">
 <b>13. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for presentation in <i>98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019</i>.
