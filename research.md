@@ -8,9 +8,9 @@ permalink: /research/
   
 ## Publications
 ___
-<b>6. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
+<b>6. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
 <br>
-<b>5. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. Under review for publication in <i>Transportation Research Part C</i>.
+<b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018) Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. arXiv preprint arXiv:1809.10329.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Under review for publication in <i>Transportation Research Record</i>. 
 <br>
