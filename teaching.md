@@ -10,7 +10,7 @@ In this section, you can find information about my teaching and mentoring experi
 ___
 <i>Download my [teaching statement](/downloads/teaching_statement.pdf) (last update: 11/2018).</i>
 
-### Past Courses
+### Courses
 ___
 
 [CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin <br><b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl). | Fall 2018 <br>
