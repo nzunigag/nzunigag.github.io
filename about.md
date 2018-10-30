@@ -12,8 +12,6 @@ Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transporta
 
 ### Research Interest
 ___
-
-<ul>
   <li>Ride-Sourcing and Ride-Sharing </li>
   <li>Public Transportation </li>
   <li>Multimodal Performace Evaluation</li>
@@ -21,7 +19,6 @@ ___
   <li>Pavement Performance Evaluation</li>
   <li>Pavement Maintainance and Rehabilitation </li>
   <li>Statistical Modeling</li>
-</ul> 
 
 
 ### Education
