@@ -41,5 +41,5 @@ Requirements: 16 graduate-level credits, including: <br>
 3 credits - Knowing and Learning in STEM Education (STM 385)<br>
 6 credits - Teaching Practicum (ME 698P)<br>
 1 credit - Teaching Portfolio Prep (ME 198P)<br>
--<b>Advanced Teaching Preparation Certificate<b> Faculty Innovation Center | Fall 2018<br>
+-<b>Advanced Teaching Preparation Certificate</b> Faculty Innovation Center | Fall 2018<br>
 Requirements: 7 workshops and a qualifying teaching statement.
