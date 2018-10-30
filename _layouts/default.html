@@ -29,18 +29,19 @@ layout: compress
     <main class="site__content">
       <section class="blog">
         <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-            <center>  
-              <h2> Hello, welcome to my personal page!</h2>         
+               <center>  
+              <h2> Hello! Welcome to my personal page.</h2>         
             <p> 
               Here you can know more <a href="https://nzunigag.github.io/about/">about me</a>,
-              my <a href="https://nzunigag.github.io/research/">research</a>, 
+              my <a href="https://nzunigag.github.io/research/">research</a> and 
               my <a href="https://nzunigag.github.io/teaching/">teaching</a> experience, and about other 
               <a href="https://nzunigag.github.io/activities/">activities</a> I like to do. <br>
               Feel free to reach me with questions and comments using my 
               <a href="https://nzunigag.github.io/contact/">contact</a> information.  
             </p>
-
+                     
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+  
             {% for post in site.posts %}
               {% include card.html %}
             {% endfor %}
