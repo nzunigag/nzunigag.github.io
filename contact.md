@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-If you have any question, comment, or if you would like to collaborate with me in any research idea, contact me anytime!
+Contact me if you have any question, comment, or if you would like to collaborate with me in any research idea!
 
 ### How to find me?
 
@@ -12,7 +12,7 @@ If you have any question, comment, or if you would like to collaborate with me i
 The easiest way to communicate with me is by [email](mailto:{{site.email}}) at nzuniga@utexas.edu.
 
 #### By Mail
-My mailing address is: 
+My mailing address is: <br>
 Department of Civil, Architectural and Environmental Engineering <br>
 The University of Texas at Austin <br>
 ECJ Bldg., Ste. 6.506 (C1761), Austin, TX 78712
