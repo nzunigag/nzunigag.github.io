@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"/>
-<p align="justify">
-Hello! I am a Ph.D. student in Transportation Engineering at the University of Texas at Austin. I work as a Graduate Research Assistance for the Center of Transportation Research (CTR). My supervisor is Dr. Randy B. Machemehl. </p>
+
+Hello! I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistance for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).
 Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (Last update: October, 2018).
 
 ### Education
