@@ -26,9 +26,11 @@ ___
 <b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program<br>
 <b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i> 
 | Tiffany Tang | Fall 2017 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin 
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin <br>
+<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i> 
 | Luis Arruti | Summer 2016 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin 
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin <br>
+<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i> 
 | Andres Sanchez | Summer 2015
 
 ### Certifications
