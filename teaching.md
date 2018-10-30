@@ -24,7 +24,7 @@ ___
 |<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang* | Fall 2017 |<br>
 |<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016 |<br>
 |<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015 |
-* Note: <i>Winner of the GLUE Participation Award</i>
+*Note: <i>Winner of the GLUE Participation Award</i>
 
 ### Certifications
 ___
