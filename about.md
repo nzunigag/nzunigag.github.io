@@ -13,7 +13,7 @@ Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transporta
 ### Research Interest
 ___
 
-<ul style="list-style-type:none">
+<ul>
   <li>Ride-Sourcing and Ride-Sharing </li>
   <li>Public Transportation </li>
   <li>Multimodal Performace Evaluation</li>
