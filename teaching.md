@@ -21,7 +21,7 @@ ___
 ___
 
 <b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin <br> <i><b>Mentee:</b> Emily Nguyen  | Fall 2018 <br>
-<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program <br> <i><b>Mentee:</b> Tiffany Tang <i>(Winner of the GLUE Participation Award)</i> | Fall 2017 <br>
+<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program <br> <i><b>Mentee:</b> Tiffany Tang | Fall 2017 <br>
 <b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br><i><b>Mentee:</b> Luis Arruti </i> | Summer 2016 <br>
 <b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br><i><b>Mentee:</b> Andres Sanchez</i> | Summer 2015 <br>
 
@@ -34,6 +34,8 @@ ___
 
 <br>
 <b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i>
+<br>
+<i>(Winner of the GLUE Participation Award)</i>
 <br>
 <b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i>
 <br>
