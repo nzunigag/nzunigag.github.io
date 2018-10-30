@@ -33,45 +33,45 @@ ___
 <br>
 <b>11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018</i>.
 <br>
-<b>10. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors. 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
+<b>10. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors](../research/pres/2018_MMLOS.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
-<b> 9. Zuniga-Garcia, N.</b>, S. Kouchaki, H. Roshani, J.A. Prozzi, and J.B. Hernandez. (2018). Field Investigation of Relationship between Pavement Surface Texture and Friction. 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
+<b> 9. Zuniga-Garcia, N.</b>, S. Kouchaki, H. Roshani, J.A. Prozzi, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pres/2018_Friction_2.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
-<b>8. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). Economic Analysis of Pavement Preservation Techniques. 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
+<b>8. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pres/2018_LCCA.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
-<b>7. Zuniga-Garcia, N.</b>, A. de Fortier Smit, and J.A. Prozzi. (2018). Predicting Friction with Improved Texture Characterization. 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
+<b>7. Zuniga-Garcia, N.</b>, A. de Fortier Smit, and J.A. Prozzi. (2018). [Predicting Friction with Improved Texture Characterization](../research/pres/2018_Friction_1.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
-<b>6. Zuniga-Garcia, N.</b>, A. de Fortier Smit, and J.A. Prozzi. (2017). Cuantificación de la macro- y micro-textura del pavimento para la estimación de fricción. XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
+<b>6. Zuniga-Garcia, N.</b>, A. de Fortier Smit, and J.A. Prozzi. (2017). [Cuantificación de la macro- y micro-textura del pavimento para la estimación de fricción](../research/pres/2017_CCV.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
 <br>
-<b>5. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, and J.A. Prozzi. (2017). Análisis estocástico del costo del ciclo de vida de técnicas de preservación de pavimentos. XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
+<b>5. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, and J.A. Prozzi. (2017). [Análisis estocástico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/pres/2017_Friccion.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
 <br>
-<b>4.</b> Martinez-Alonso, W., <b>N. Zuniga-Garcia </b>, A. de Fortier Smit, and J.A. Prozzi. (2017). Life-Cycle Cost Analysis of Pavement Preservation Techniques in Texas. 96th Annual Meeting the Transportation Research Board, Washington, DC, January 2017.
+<b>4.</b> Martinez-Alonso, W., <b>N. Zuniga-Garcia </b>, A. de Fortier Smit, and J.A. Prozzi. (2017). [Life-Cycle Cost Analysis of Pavement Preservation Techniques in Texas](../research/pres/2017_LCCA.pdf). 96th Annual Meeting the Transportation Research Board, Washington, DC, January 2017.
 <br>
-<b>3. Zuniga-Garcia, N.</b>, A. de Fortier Smit, M. Trevino, P. Buddhavarapu,  and J.A. Prozzi. (2016). Laboratory Design of Quieter Asphalt Surfaces. 95th Annual Meeting of the Transportation Research Board, Washington, DC, January 2016.
+<b>3. Zuniga-Garcia, N.</b>, A. de Fortier Smit, M. Trevino, P. Buddhavarapu,  and J.A. Prozzi. (2016). [Laboratory Design of Quieter Asphalt Surfaces](../research/pres/2016_Noise.pdf). 95th Annual Meeting of the Transportation Research Board, Washington, DC, January 2016.
 <br>
-<b>2. Zuniga-Garcia, N.</b>, A. de Fortier Smit, M. Trevino, P. Buddhavarapu,  and J.A. Prozzi. (2015). Laboratory Design of Quieter Asphalt Surfaces. 27th Annual Road Profile Users’ Group (RPUG) Meeting, Raleigh, NC, November 2015.
+<b>2. Zuniga-Garcia, N.</b>, A. de Fortier Smit, M. Trevino, P. Buddhavarapu,  and J.A. Prozzi. (2015). [Laboratory Design of Quieter Asphalt Surfaces](../research/pres/2015_Noise.pdf). 27th Annual Road Profile Users’ Group (RPUG) Meeting, Raleigh, NC, November 2015.
 <br>
-<b>1. Zuniga-Garcia, N.</b>, and F. Elizondo-Arrieta (2013). Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio. XVII Congreso Ibero Latinoamericano del Asfalto (CILA), Antigua, Guatemala, November 2013.
+<b>1. Zuniga-Garcia, N.</b>, and F. Elizondo-Arrieta (2013). [Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio](../research/pres/2013_TS.pdf). XVII Congreso Ibero Latinoamericano del Asfalto (CILA), Antigua, Guatemala, November 2013.
 
 
 ## Technical Reports
 ___
-<b>3. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2016). Contribution of Micro- and Macro-Texture for Predicting Friction on Pavement Surfaces. Center for Highway Pavement Preservation (CHPP) Report UTA No. 3-2016.
+<b>3. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2016). [Contribution of Micro- and Macro-Texture for Predicting Friction on Pavement Surfaces](../research/rep/2016_Friction.pdf). Center for Highway Pavement Preservation (CHPP) Report UTA No. 3-2016.
 <br>
-<b>2.</b> Smit, A. de Fortier, M. Trevino, <b> N. Zuniga-Garcia </b>, P. Buddhavarapu,  and J.A. Prozzi. (2016). Selection	and	Design	of	Quiet	Pavement Surfaces. Texas Department of Transportation (TxDOT) Report FHWA/TX-16/0-6819-1.
+<b>2.</b> Smit, A. de Fortier, M. Trevino, <b> N. Zuniga-Garcia </b>, P. Buddhavarapu,  and J.A. Prozzi. (2016). [Selection	and	Design	of	Quiet	Pavement Surfaces](../research/rep/2016_Noise.pdf). Texas Department of Transportation (TxDOT) Report FHWA/TX-16/0-6819-1.
 <br>
-<b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas. Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
+<b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2016_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
 
 
 ## Theses
 ____
 
-<b>3. Zuniga-Garcia, N.</b> (2018). Spatial Pricing Empirical Evaluation of Ride-Sourcing
-Trips Using the Graph-Fused Lasso for Total Variation Denoising (Master's Thesis Report). The University of Texas at Austin, Austin, TX, United States.
+<b>3. Zuniga-Garcia, N.</b> (2018). [Spatial Pricing Empirical Evaluation of Ride-Sourcing
+Trips Using the Graph-Fused Lasso for Total Variation Denoising](../research/thes/2018_Thesis.pdf) (Master's Thesis Report). The University of Texas at Austin, Austin, TX, United States.
 <br>
-<b>2. Zuniga-Garcia, N.</b> (2017). Predicting Friction with Improved Texture Characterization (Master's Thesis). The University of Texas at Austin, Austin, TX, United States. 
+<b>2. Zuniga-Garcia, N.</b> (2017). [Predicting Friction with Improved Texture Characterization](../research/thes/2017_Thesis.pdf) (Master's Thesis). The University of Texas at Austin, Austin, TX, United States. 
 <br>
-<b>1. Zuniga-Garcia, N.</b> (2012). Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio (Licentiate's Thesis). University of Costa Rica, San José, Costa Rica.
+<b>1. Zuniga-Garcia, N.</b> (2012). [Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio](../research/thes/2012_Tesis.pdf) (Licentiate's Thesis). University of Costa Rica, San José, Costa Rica.
 
 
 ## Magazine Publications
