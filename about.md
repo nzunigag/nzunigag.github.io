@@ -31,8 +31,7 @@ ___
   <ul style="list-style-type:none">
   <li>CE 392M Public Transportation Engineering <i>(Prof.: Randy B. Machemehl)</i> | Fall 2018</li>
   <li>CE 367P Pavement Design and Performance <i>(Prof.: Jorge A. Prozzi</i>)| Spring/Fall 2016</li>
- </ul> 
-<br>
+  </ul> 
 - <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
 <br>
 - <b>Research Engineer</b> <i>University of Costa Rica: Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
