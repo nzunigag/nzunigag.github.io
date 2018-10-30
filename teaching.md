@@ -25,7 +25,7 @@ ___
 |<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin <br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016 |<br>
 |<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin <br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015 |
 <br>
-*Note:<i>Winner of the GLUE Participation Award</i>
+* Note: <i>Winner of the GLUE Participation Award</i>
 
 ### Certifications
 ___
