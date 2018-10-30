@@ -8,7 +8,7 @@ If you have any question, comment, or if you would like to collaborate with me i
 
 ### How to find me?
 
-#### By email 
+#### By Email 
 The easiest way to communicate with me is by [email](mailto:{{site.email}}) at nzuniga@utexas.edu.
 
 #### Mailing
