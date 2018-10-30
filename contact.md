@@ -12,12 +12,10 @@ If you have any question, comment, or if you would like to collaborate with me i
 The easiest way to communicate with me is by [email](mailto:{{site.email}}) at nzuniga@utexas.edu.
 
 #### Mailing
-My mailing address is:
+My mailing address is: 
 
-Department of Civil, Architectural and Environmental Engineering
-
-The University of Texas at Austin
-
+Department of Civil, Architectural and Environmental Engineering <br>
+The University of Texas at Austin <br>
 ECJ Bldg., Ste. 6.506 (C1761), Austin, TX 78712
 
 #### On Campus
