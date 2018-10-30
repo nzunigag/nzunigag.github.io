@@ -15,7 +15,7 @@ ___
 
 [CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin <br><b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl). | Fall 2018 <br>
 [CE 367 P Pavement Design and Performance](/downloads/2016_syllabus.pdf) The University of Texas at Austin <br><b>Teaching Assistant</b> (Prof.: Dr. Jorge A. Prozzi). | Spring / Fall 2016 <br>
-[IC 0810 Diseño Vial <i>(Geometric Design)</i>](/downloads/2014_programa.pdf) University of Costa Rica - Civil Engineering Department <br><b>Interim Professor</b> - Led weekly sessions for fourth-year Civil Engineering students. | II - 2014 <br>
+[IC 0810 Diseño Vial <i>(Geometric Design)</i>](/downloads/2014_programa.pdf) University of Costa Rica - Civil Engineering Department <br><b>Interim Professor</b> (Led weekly sessions for fourth-year Civil Engineering students). | II - 2014 <br>
 
 ### Mentoring Experience
 ___
