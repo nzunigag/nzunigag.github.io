@@ -10,6 +10,17 @@ Hello! I am a Ph.D. student in [Transportation Engineering](http://www.caee.utex
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (Last update: November, 2018).</i>
 
+### Research Areas
+___
+<p align="justify">
+- Ride-Sourcing and Ride-Sharing
+- Public Transportation
+- Intelligent Transportatin Systems (ITS)
+- Statistical Modeling
+- Infrastructure Materials
+- Pavement Engineering
+</p>
+
 ### Education
 ___
 <p align="justify">
