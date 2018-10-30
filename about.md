@@ -20,6 +20,7 @@ ___
   <li>Intelligent Transportatin Systems (ITS) </li>
   <li>Pavement Performance </li>
   <li>Pavement Maintainance and Rehabilitation </li>
+  <li>Statistical Modeling <li>
 </ul> 
 
 ### Education
