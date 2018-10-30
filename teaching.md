@@ -34,7 +34,7 @@ ___
 
 ### Certifications
 ___
-- <b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering | May 2020 (Expected) <br>
+- <b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering | May 2020 <i>(Expected)</i> <br>
 Requirements: 16 graduate-level credits, including: <br>
 3 credits - Teaching Engineering (ME/CE 398T) <br>
 3 credits - Curriculum Design and Assessment in Engineering (ME 398S)<br>
