@@ -32,9 +32,9 @@ ___
 ### Experience
 ___
 
-<b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015-Present <br>
-<b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Sp/F 2016, F 2018  <br>
-<b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | II-2014 <br>
+<b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present <br>
+<b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Sp / F 2016, F 2018  <br>
+<b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | II - 2014 <br>
 <b>Research Engineer</b> <i>University of Costa Rica - Sustainable Urban Development Program</i> | 2013 - 2014 <br>
 <b>Undergraduate Research Assistant</b> <i>University of Costa Rica - ProDUS and LanammeUCR</i>  | 2010 - 2012 
 
