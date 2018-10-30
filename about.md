@@ -23,7 +23,7 @@ ___
 
 ### Education
 ___
-<p align="justify">
+
 - <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng. </i> | May 2020 <i>(Expected)</i>
 <br>
 - <b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018 
@@ -31,11 +31,9 @@ ___
 - <b>The University of Texas at Austin</b> <i>M.Sc. in Civil Engineering - Infrastructure Materials</i> | May 2017
 <br>
 - <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
-</p>
 
 ### Experience
 ___
-<p align="justify">
 - <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present
 <br>
 - <b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring/Fall 2016 & Fall 2018 <br>
@@ -49,11 +47,9 @@ ___
 
 ### Honors and Awards
 ___
-<p align="justify">
 - <b>WTS Diane Woodend Jones Leadership Legacy Scholarship</b> Women’s Transportation Seminar (WTS) | 2018 <br>
 - <b>WTS Leadership Legacy Scholarship</b> Women’s Transportation Seminar - Heart of Texas (WTS-HOT) | 2018 <br>
 - <b>Leadership	Collaborative	Leader	Award</b> Women in	Engineering Program (WEP) UT-Austin | 2018 <br>
 - <b>Professional Development Award </b> Graduate School - University of Texas at Austin | 2016 <br>
 - <b>Innovation and Human Capital Program for Competitiveness Scholarship</b> <br>
   Inter-American Development Bank (IDB) and Ministry of Science and Technology (Costa Rica) | 2015 <br>
-</p>
