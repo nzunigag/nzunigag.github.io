@@ -20,10 +20,16 @@ ___
 ### Mentoring Experience
 ___
 
-<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin | <i>Mentee: Emily Nguyen  | Fall 2018 <br>
-<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program | <i>Mentee: Tiffany Tang | Fall 2017 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin | <i>Mentee: Luis Arruti </i> | Summer 2016 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin | <i>Mentee: Andres Sanchez</i> | Summer 2015
+<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin<br>
+<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i> 
+| Emily Nguyen  | Fall 2018 <br>
+<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program<br>
+<b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i> 
+| Tiffany Tang | Fall 2017 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin 
+| Luis Arruti | Summer 2016 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin 
+| Andres Sanchez | Summer 2015
 
 ### Certifications
 ___
@@ -41,7 +47,6 @@ ___
 <b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i>
 <br>
 <i>(Winner of the GLUE Participation Award)</i>
-<br>
-<b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i>
+
 
 
