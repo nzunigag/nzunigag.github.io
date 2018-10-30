@@ -22,8 +22,8 @@ ___
 
 <b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin <br> <i><b>Mentee:</b> Emily Nguyen  | Fall 2018 <br>
 <b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program <br> <i><b>Mentee:</b> Tiffany Tang | Fall 2017 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI) UT Austin </b><br><i><b>Mentee:</b> Luis Arruti </i> | Summer 2016 <br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI) UT Austin</b><br><i><b>Mentee:</b> Andres Sanchez</i> | Summer 2015 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin<br><i><b>Mentee:</b> Luis Arruti </i> | Summer 2016 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin<br><i><b>Mentee:</b> Andres Sanchez</i> | Summer 2015 <br>
 
 ### Certifications
 ___
