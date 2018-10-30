@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"/>
 
-Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistance (GRA) for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).<br>
+Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistance for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).<br>
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (last update: November, 2018) or visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) page.</i>  
 
