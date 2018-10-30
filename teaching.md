@@ -21,9 +21,9 @@ ___
 ___
 
 <b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin<br> Project: Speach Recognition Using Connectionist Temporal Classification. | Emily Nguyen  | Fall 2018<br>
-<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> WEP UT Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang* | Fall 2017<br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin<br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT Austin<br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
+<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> WEP UT-Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang* | Fall 2017<br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT-Austin<br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b> UT-Austin<br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
 
 *Note: <i>Winner of the GLUE Participation Award</i>
 
