@@ -22,4 +22,9 @@ ___
 - <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 </p>
 
+### Experience
+<p align="justify">
+- <b>Graduate Research Assistance</b> <i>The University of Texas at Austin (Prof.: Randy B. Machemehl, Jorge A. Prozzi)</i> | 2015 - Present </i>
+<br>
+</p>
 
