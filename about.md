@@ -27,7 +27,7 @@ ___
 <p align="justify">
 - <b>Graduate Research Assistance</b> <i>The University of Texas at Austin (Prof.: Randy B. Machemehl, Jorge A. Prozzi)</i> | 2015 - Present
 <br>
-- <b>Teaching Assistant</b> <i>The University of Texas at Austin: Cockrell School of Engineering</i> | (Spring/Fall 2016, Fall 2018)
+- <b>Teaching Assistant</b> <i>The University of Texas at Austin: Cockrell School of Engineering</i> | (Spring/Fall 2016, Fall 2018) <br>
 - <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
 <br>
 - <b>Research Engineer</b> <i>University of Costa Rica: Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
