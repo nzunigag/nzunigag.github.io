@@ -12,7 +12,7 @@ Download my [teaching statement](/downloads/teaching_statement.pdf) (last update
 
 ### Past Courses
 ___
-- [CE 392M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin | Fall 2018 <br>
+- [CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin | Fall 2018 <br>
 <b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl).
 - [CE 367 P Pavement Design and Performance](/downloads/2016_syllabus.pdf) The University of Texas at Austin | Spring / Fall 2016 <br>
 <b>Teaching Assistant</b> (Prof.: Dr. Jorge A. Prozzi).
@@ -21,7 +21,16 @@ ___
 
 ### Mentoring Experience
 ___
-
+- <b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin  | Fall 2018 <br>
+<i><b>Mentee:</b> Emily Nguyen <br>
+<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i><br>
+- <b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program | Fall 2017 <br>
+<i><b>Mentee:</b> Tiffany Tang <i>(Winner of the GLUE Participation Award)</i> <br>
+<b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i><br>
+- <b>University Transportation Center Undergraduate Internship (UTC-UI)</b> | Summer 2016 <br>
+<i><b>Mentee:</b> Luis Arruti <br></i>
+- <b>University Transportation Center Undergraduate Internship (UTC-UI)</b> | Summer 2015 <br>
+<i><b>Mentee:</b> Andres Sanchez</i>
 
 ### Certifications
 ___
