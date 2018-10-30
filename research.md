@@ -6,7 +6,7 @@ permalink: /research/
 
 In this section, you will find preprints of my publications, my presentation materials, and links to my technical reports and theses. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment.
   
-## Journal Publications
+### Journal Publications
 ___
 <b>6. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
 <br>
@@ -21,7 +21,7 @@ ___
 <b>1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pub/2018_LCCA.pdf). Transportation Research Record, 0361198118768515.
 
 
-## Conference Proceedings
+### Conference Proceedings
 ___
 <b>15. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Under review for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
@@ -54,7 +54,7 @@ ___
 <b>1. Zuniga-Garcia, N.</b>, and F. Elizondo-Arrieta (2013). [Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio](../research/pres/2013_TS.pdf). XVII Congreso Ibero Latinoamericano del Asfalto (CILA), Antigua, Guatemala, November 2013.
 
 
-## Technical Reports
+### Technical Reports
 ___
 <b>3. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2016). [Contribution of Micro- and Macro-Texture for Predicting Friction on Pavement Surfaces](../research/rep/2016_Friction.pdf). Center for Highway Pavement Preservation (CHPP) Report UTA No. 3-2016.
 <br>
@@ -63,7 +63,7 @@ ___
 <b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2014_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
 
 
-## Theses
+### Theses
 ____
 
 <b>3. Zuniga-Garcia, N.</b> (2018). [Spatial Pricing Empirical Evaluation of Ride-Sourcing
@@ -74,7 +74,7 @@ Trips Using the Graph-Fused Lasso for Total Variation Denoising](../research/the
 <b>1. Zuniga-Garcia, N.</b> (2012). [Propuesta de una metodología para la evaluación del desempeño de tratamientos superficiales en laboratorio](../research/thes/2012_Tesis.pdf) (Licentiate's Thesis). University of Costa Rica, San José, Costa Rica.
 
 
-## Magazine Publications
+### Magazine Publications
 ____
 <b>1. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2018, Sept). [Análisis probabilístico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/mag/2018_CCV.pdf). Revista Asfalto y Pavimentación, VIII (30), 23-31.
 
