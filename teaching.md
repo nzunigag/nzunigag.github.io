@@ -8,7 +8,7 @@ In this section, you can find information about my teaching and mentoring experi
 
 ### Teaching Statement
 ___
-Download my [teaching statement](/downloads/teaching_statement.pdf) (last update: 11/2018).
+<i>Download my [teaching statement](/downloads/teaching_statement.pdf) (last update: 11/2018).</i>
 
 ### Past Courses
 ___
