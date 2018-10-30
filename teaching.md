@@ -34,3 +34,12 @@ ___
 
 ### Certifications
 ___
+-<b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering | May 2020 (Expected) <br>
+Requirements: 16 graduate-level credits, including: <br>
+3 credits - Teaching Engineering (ME/CE 398T) <br>
+3 credits - Curriculum Design and Assessment in Engineering (ME 398S)<br>
+3 credits - Knowing and Learning in STEM Education (STM 385)<br>
+6 credits - Teaching Practicum (ME 698P)<br>
+1 credit - Teaching Portfolio Prep (ME 198P)<br>
+-<b>Advanced Teaching Preparation Certificate<b> Faculty Innovation Center | Fall 2018<br>
+Requirements: 7 workshops and a qualifying teaching statement.
