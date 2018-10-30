@@ -32,17 +32,9 @@ Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summe
 ### Certifications
 ___
 
-<b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits, including the following courses: <br>
-3 credits - Teaching Engineering (ME/CE 398T) <br>
-3 credits - Curriculum Design and Assessment in Engineering (ME 398S)<br>
-3 credits - Knowing and Learning in STEM Education (STM 385)<br>
-6 credits - Teaching Practicum (ME 698P)<br>
-1 credit - Teaching Portfolio Prep (ME 198P)<br> | May 2020 <i>(Expected)</i> <br>
-<b>Advanced Teaching Preparation Certificate</b> Faculty Innovation Center UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits. | May 2020 <i>(Expected)</i> <br>
+<b>[Advanced Teaching Preparation Certificate](https://facultyinnovate.utexas.edu/gsd)</b> Faculty Innovation Center UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
 
-
-<br>
-<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i>
 <br>
 <i>(Winner of the GLUE Participation Award)</i>
 
