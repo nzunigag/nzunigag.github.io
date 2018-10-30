@@ -12,16 +12,13 @@ Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transporta
 
 ### Research Interest
 ___
-
-<ul style="list-style-type:none">
-  <li>Ride-Sourcing and Ride-Sharing </li>
-  <li>Public Transportation </li>
-  <li>Multimodal Performace Evaluation</li>
-  <li>Intelligent Transportation Systems (ITS) </li>
-  <li>Pavement Performance Evaluation</li>
-  <li>Pavement Maintainance and Rehabilitation </li>
-  <li>Statistical Modeling</li>
-</ul> 
+  Ride-Sourcing and Ride-Sharing <br>
+  Public Transportation <br>
+  Multimodal Performace Evaluation <br>
+  Intelligent Transportation Systems (ITS) <br>
+  Pavement Performance Evaluation <br>
+  Pavement Maintainance and Rehabilitation <br>
+  Statistical Modeling <br>
 
 
 ### Education
@@ -42,11 +39,11 @@ ___
 - <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present
 <br>
 - <b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring/Fall 2016 & Fall 2018 <br>
-- <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
+- <b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | II Semester 2014
 <br>
-- <b>Research Engineer</b> <i>University of Costa Rica: Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
+- <b>Research Engineer</b> <i>University of Costa Rica - Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
 <br>
-- <b>Undergraduate Research Assistant</b> <i>University of Costa Rica: ProDUS and LanammeUCR</i> | 2010-2012
+- <b>Undergraduate Research Assistant</b> <i>University of Costa Rica - ProDUS and LanammeUCR</i> | 2010-2012
 <br>
 </p>
 
