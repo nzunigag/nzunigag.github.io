@@ -24,10 +24,10 @@ ___
 ### Education
 ___
 
-- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng. </i> | May 2020 <i>(Expected)</i> <br>
-- <b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018  <br>
-- <b>The University of Texas at Austin</b> <i>M.Sc. in Civil Engineering - Infrastructure Materials</i> | May 2017 <br>
-- <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
+<b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng. </i> | May 2020 <i>(Expected)</i> <br>
+<b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018  <br>
+<b>The University of Texas at Austin</b> <i>M.Sc. in Civil Engineering - Infrastructure Materials</i> | May 2017 <br>
+<b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 
 ### Experience
 ___
