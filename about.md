@@ -32,15 +32,15 @@ ___
 ### Experience
 ___
 
-<b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | May 2020 <i>(Expected)</i> <br>
-<b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | May 2018  <br>
-<b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | May 2017 <br>
-<b>Research Engineer</b> <i>University of Costa Rica - Sustainable Urban Development Program (ProDUS)</i> | December 2012
-<b>Undergraduate Research Assistant</b> <i>University of Costa Rica - ProDUS and LanammeUCR</i>  | May 2017 <br>
+<b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015-Present <br>
+<b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring / Fall 2016, Fall 2018  <br>
+<b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | II-2014 <br>
+<b>Research Engineer</b> <i>University of Costa Rica - Sustainable Urban Development Program (ProDUS)</i> | 2013 - 2014 <br>
+<b>Undergraduate Research Assistant</b> <i>University of Costa Rica - ProDUS and LanammeUCR</i>  | 2010 - 2012 
 
 ### Experience
 ___
-| <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present | <br>
+| <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015-Present | <br>
 | <b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring / Fall 2016, Fall 2018 | <br>
 | <b>Interim Professor</b> <i>University of Costa Rica - Civil Engineering Department</i> | II Semester 2014 | <br>
 | <b>Research Engineer</b> <i>University of Costa Rica - Sustainable Urban Development Program (ProDUS)</i> | 2013 - 2014 | <br>
