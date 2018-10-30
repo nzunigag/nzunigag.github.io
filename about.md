@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"/>
 
-Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistance for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).<br>
+Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistant for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).<br>
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (last update: November, 2018) or visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) page.</i>  
 
@@ -38,7 +38,7 @@ ___
 ### Experience
 ___
 <p align="justify">
-- <b>Graduate Research Assistance</b> <i>The University of Texas at Austin </i> | 2015 - Present
+- <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present
 <br>
 - <b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring/Fall 2016 & Fall 2018 <br>
 - <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
