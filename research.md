@@ -31,7 +31,7 @@ ___
 <br>
 <b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Accepted for presentation in <i> 98th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2019.
 <br>
-<b>11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach. 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018.
+<b>11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach. 2018 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting, Phoenix, AZ, November 2018.
 <br>
 <b>10. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors](../research/pres/2018_MMLOS.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
