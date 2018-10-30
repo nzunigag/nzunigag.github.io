@@ -15,7 +15,9 @@ The easiest way to communicate with me is by [email](mailto:{{site.email}}) at n
 My mailing address is:
 
 Department of Civil, Architectural and Environmental Engineering
+
 The University of Texas at Austin
+
 ECJ Bldg., Ste. 6.506 (C1761), Austin, TX 78712
 
 #### On Campus
