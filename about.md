@@ -21,7 +21,6 @@ ___
   <li>Pavement Performance </li>
   <li>Pavement Maintainance and Rehabilitation </li>
   <li>Statistical Modeling </li>
-  <li>Spatial Analysis </li>
 </ul> 
 
 
