@@ -17,7 +17,7 @@ ___
   <li>Ride-Sourcing and Ride-Sharing </li>
   <li>Public Transportation </li>
   <li>Multimodal Performace Evaluation</li>
-  <li>Intelligent Transportatin Systems (ITS) </li>
+  <li>Intelligent Transportation Systems (ITS) </li>
   <li>Pavement Performance </li>
   <li>Pavement Maintainance and Rehabilitation </li>
   <li>Statistical Modeling </li>
