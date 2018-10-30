@@ -12,7 +12,7 @@ Download my [teaching statement](/downloads/teaching_statement.pdf) (last update
 
 ### Past Courses
 ___
-/- [CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin | Fall 2018 <br>
+- [CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin | Fall 2018 <br>
 <b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl). <br>
 - [CE 367 P Pavement Design and Performance](/downloads/2016_syllabus.pdf) The University of Texas at Austin | Spring / Fall 2016 <br>
 <b>Teaching Assistant</b> (Prof.: Dr. Jorge A. Prozzi). <br>
