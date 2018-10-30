@@ -23,8 +23,19 @@ ___
 </p>
 
 ### Experience
+___
 <p align="justify">
-- <b>Graduate Research Assistance</b> <i>The University of Texas at Austin (Prof.: Randy B. Machemehl, Jorge A. Prozzi)</i> | 2015 - Present </i>
+- <b>Graduate Research Assistance</b> <i>The University of Texas at Austin (Prof.: Randy B. Machemehl, Jorge A. Prozzi)</i> | 2015 - Present
+<br>
+- <b>Teaching Assistant</b> <i>The University of Texas at Austin: Cockrell School of Engineering}</i> 
+  -  CE 392M Public Transportation Engineering <i>(Prof.: Randy B. Machemehl</i> | Fall 2018
+  -  CE 367P Pavement Design and Performance <i>(Prof.: Jorge A. Prozzi</i> | Spring/Fall 2016 
+<br>
+- <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
+<br>
+- <b>Research Engineer</b> <i>University of Costa Rica: Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
+<br>
+- <b>Undergraduate Research Assistant</b> <i>University of Costa Rica: ProDUS and LanammeUCR</i> | 2010-2012
 <br>
 </p>
 
