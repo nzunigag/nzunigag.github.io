@@ -76,5 +76,5 @@ Trips Using the Graph-Fused Lasso for Total Variation Denoising](../research/the
 
 ## Magazine Publications
 ____
-<b>1. Zuniga-Garcia, N.</b> and J.A. Prozzi.(2018, Sept). [Análisis probabilístico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/mag/2018_CCV.pdf). Revista Asfalto y Pavimentación, VIII(30), 23-31.
+<b>1. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2018, Sept). [Análisis probabilístico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/mag/2018_CCV.pdf). Revista Asfalto y Pavimentación, VIII(30), 23-31.
 
