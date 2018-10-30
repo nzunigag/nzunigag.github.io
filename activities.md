@@ -14,7 +14,7 @@ ___
 <b>Transportation Liaison</b> Tenant Advisory Board (TAB) <i>Housing and Dinning UT-Austin</i> | 2017 - 2019 <br>
 <b>President</b> Women in Transportation Seminar (WTS) <i>UT-Austin Student Chapter</i> | 2017 - 2018 <br>
 <b>Seminar Series Director</b> Graduate Engineering Council (GEC) <i>Cockrell School of Engineering</i> | 2017 - 2018 <br>
-<b>Student Member</b> Institute for Operations Research and the Management Sciences (INFORMS)  <i>Student Chapter</i> | 2018-Present <br>
+<b>Student Member</b> Institute for Operations Research and the Management Sciences (INFORMS) | 2018-Present <br>
 <b>Student Member</b> Institute of Transportation Engineers (ITE) <i>UT-Austin Student Chapter</i> | 2017-Present <br>
 <b>Student Member</b> Intelligent Transportation Society (ITS) <i>UT-Austin Student Chapter</i> | 2017-Present <br>
 <b>Student Member</b> American Society of Civil Engineers (ASCE) <i>ASCE Student Chapter</i> | 2017-Present <br>
