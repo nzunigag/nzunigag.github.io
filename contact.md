@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-If you have any question, comment, or if you would like to collaborate with me in any research idea, feel free to contact me anytime!
+If you have any question, comment, or if you would like to collaborate with me in any research idea, contact me anytime!
 
 ### How to find me?
 
