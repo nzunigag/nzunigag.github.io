@@ -19,25 +19,22 @@ ___
 
 ### Mentoring Experience
 ___
-- <b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin  | Fall 2018 <br>
-<i><b>Mentee:</b> Emily Nguyen <br>
-<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i><br>
-- <b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program | Fall 2017 <br>
-<i><b>Mentee:</b> Tiffany Tang <i>(Winner of the GLUE Participation Award)</i> <br>
-<b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i><br>
-- <b>University Transportation Center Undergraduate Internship (UTC-UI)</b> | Summer 2016 <br>
-<i><b>Mentee:</b> Luis Arruti <br></i>
-- <b>University Transportation Center Undergraduate Internship (UTC-UI)</b> | Summer 2015 <br>
-<i><b>Mentee:</b> Andres Sanchez</i>
+
+<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin <br> <i><b>Mentee:</b> Emily Nguyen <br>
+<b>Project:</b> Speach Recognition Using Connectionist Temporal Classification</i>  | Fall 2018 <br>
+<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> Women in Engineering Program <br> <i><b>Mentee:</b> Tiffany Tang <i>(Winner of the GLUE Participation Award)</i> <br>
+<b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf)</i> | Fall 2017 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br><i><b>Mentee:</b> Luis Arruti </i> | Summer 2016 <br>
+<b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br><i><b>Mentee:</b> Andres Sanchez</i> | Summer 2015 <br>
 
 ### Certifications
 ___
-- <b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering | May 2020 <i>(Expected)</i> <br>
-Requirements: 16 graduate-level credits, including the following courses: <br>
+
+<b>Graduate Certificate in Engineering Education</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits, including the following courses: <br>
 3 credits - Teaching Engineering (ME/CE 398T) <br>
 3 credits - Curriculum Design and Assessment in Engineering (ME 398S)<br>
 3 credits - Knowing and Learning in STEM Education (STM 385)<br>
 6 credits - Teaching Practicum (ME 698P)<br>
-1 credit - Teaching Portfolio Prep (ME 198P)<br>
-- <b>Advanced Teaching Preparation Certificate</b> Faculty Innovation Center UT-Austin | Fall 2018<br>
-Requirements: 7 workshops and a qualifying teaching statement.
+1 credit - Teaching Portfolio Prep (ME 198P)<br> | May 2020 <i>(Expected)</i> <br>
+<b>Advanced Teaching Preparation Certificate</b> Faculty Innovation Center UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+
