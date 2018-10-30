@@ -6,14 +6,27 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"/>
 
-<p align="justify">
-Hello! I am a Ph.D. student in Transportation Engineering at the University of Texas at Austin. I work as a Graduate Research Assistance for the Center of Transportation Research (CTR). My supervisor is Dr. Randy B. Machemehl. 
-</p>
+Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. student in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistant for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My supervisor is [Dr. Randy B. Machemehl](https://faculty.engr.utexas.edu/machemehl/).<br>
+
+<i>Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (last update: 11/2018) or visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) page.</i>  
+
+### Research Interest
+___
+
+<ul style="list-style-type:none">
+  <li>Ride-Sourcing and Ride-Sharing </li>
+  <li>Public Transportation </li>
+  <li>Multimodal Performace Evaluation</li>
+  <li>Intelligent Transportation Systems (ITS) </li>
+  <li>Pavement Performance Evaluation</li>
+  <li>Pavement Maintainance and Rehabilitation </li>
+</ul> 
+
 
 ### Education
 ___
 <p align="justify">
-- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng.</i> | May 2020 <i>(Expected)</i>
+- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng. </i> | May 2020 <i>(Expected)</i>
 <br>
 - <b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018 
 <br>
@@ -21,5 +34,28 @@ ___
 <br>
 - <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 </p>
-[CV](/downloads/Resume_Natalia_ZunigaGarcia.pdf) 
 
+### Experience
+___
+<p align="justify">
+- <b>Graduate Research Assistant</b> <i>The University of Texas at Austin </i> | 2015 - Present
+<br>
+- <b>Teaching Assistant</b> <i>The University of Texas at Austin</i> | Spring/Fall 2016 & Fall 2018 <br>
+- <b>Interim Professor</b> <i>University of Costa Rica: Civil Engineering Department</i> | II Semester 2014
+<br>
+- <b>Research Engineer</b> <i>University of Costa Rica: Sustainable Urban Development Program (ProDUS)</i> | 2013-2014
+<br>
+- <b>Undergraduate Research Assistant</b> <i>University of Costa Rica: ProDUS and LanammeUCR</i> | 2010-2012
+<br>
+</p>
+
+### Honors and Awards
+___
+<p align="justify">
+- <b>WTS Diane Woodend Jones Leadership Legacy Scholarship</b> Women’s Transportation Seminar (WTS) | 2018 <br>
+- <b>WTS Leadership Legacy Scholarship</b> Women’s Transportation Seminar - Heart of Texas (WTS-HOT) | 2018 <br>
+- <b>Leadership	Collaborative	Leader	Award</b> Women in	Engineering Program (WEP) UT-Austin | 2018 <br>
+- <b>Professional Development Award </b> Graduate School - University of Texas at Austin | 2016 <br>
+- <b>Innovation and Human Capital Program for Competitiveness Scholarship</b> <br>
+  Inter-American Development Bank (IDB) and Ministry of Science and Technology (Costa Rica) | 2015 <br>
+</p>

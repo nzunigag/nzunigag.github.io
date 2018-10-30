@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-
+In this section, you will find preprints of my publications, my presentation materials, and links to my technical reports and theses. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment.
   
 ## Journal Publications
 ___
@@ -16,7 +16,7 @@ ___
 <br>
 <b>3. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.](../research/pub/2018_MMLOS.pdf) Transportation Research Record, 0361198118776112.
 <br>
-<b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia </b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction.pdf). Transportation Research Record, 0361198118777384.
+<b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia</b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction.pdf). Transportation Research Record, 0361198118777384.
 <br>
 <b>1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pub/2018_LCCA.pdf). Transportation Research Record, 0361198118768515.
 
@@ -31,7 +31,7 @@ ___
 <br>
 <b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. Accepted for presentation in <i> 98th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2019.
 <br>
-<b>11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach. Accepted for presentation in <i> 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018</i>.
+<b>11. Zuniga-Garcia, N.</b>, M. Tec, S.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach. 2018 INFORMS Annual Meeting, Phoenix, AZ, November 2018.
 <br>
 <b>10. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors](../research/pres/2018_MMLOS.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
@@ -76,5 +76,5 @@ Trips Using the Graph-Fused Lasso for Total Variation Denoising](../research/the
 
 ## Magazine Publications
 ____
-<b>1. Zuniga-Garcia, N.</b> and J.A. Prozzi.(2018, Sept). [Análisis probabilístico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/mag/2018_CCV.pdf). Revista Asfalto y Pavimentación, VIII(30), 23-31.
+<b>1. Zuniga-Garcia, N.</b> and J.A. Prozzi. (2018, Sept). [Análisis probabilístico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/mag/2018_CCV.pdf). Revista Asfalto y Pavimentación, VIII (30), 23-31.
 

@@ -5,17 +5,15 @@ description: > # Meta description of Homepage
   Natalia Zuniga-Garcia personal website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nzunigag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  nzunigag
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Natalia
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://www.linkedin.com/in/nzunigag/
+    - https://github.com/nzunigag
+    - https://www.instagram.com/nataliazunigagarcia/
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -33,9 +31,9 @@ hero_img: /assets/img/main.jpg # Main background image: use the path from /asset
 
 email: nzuniga@utexas.edu # email for form submission
 
-#twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-#github_username:  nzunigag # replace with your_github_username or comment to remove link from footer
-#instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+#twitter_username: nzunigag # replace with your_twitter_username or comment to remove link from footer
+github_username:  nzunigag # replace with your_github_username or comment to remove link from footer
+instagram_username: nataliazunigagarcia # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: nzunigag # to enable comments replace with your_disqus_shortname

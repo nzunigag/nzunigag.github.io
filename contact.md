@@ -4,15 +4,24 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+Contact me if you have any question, comment, or if you would like to collaborate with me in any research idea!
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+### How to find me?
 
-Check the form below to see it in action!
+#### By Email 
+The easiest way to communicate with me is by [email](mailto:{{site.email}}) at nzuniga@utexas.edu.
 
-### Example Formspree contact form with validation and reCaptcha
+#### By Mail
+My mailing address is: <br>
+Department of Civil, Architectural and Environmental Engineering <br>
+The University of Texas at Austin <br>
+ECJ Bldg., Ste. 6.506 (C1761), Austin, TX 78712
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+#### On Campus
+On campus, you can find me on the Ernest Cockrell Jr. Hall (ECJ) Building. I am in the 6th floor, office 6.506. 
+
+#### Fill in The Form
+You can also fill in the following form with your information, and I will get back to you.
 
 {% include form.html %}
 
