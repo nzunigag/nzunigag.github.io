@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-
+In this section you will find preprints of my publications, my presentation materials, and links to my technical reports and theses. Feel free to contact me if you have any question or comment.
   
 ## Journal Publications
 ___
