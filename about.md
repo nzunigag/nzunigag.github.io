@@ -40,8 +40,12 @@ ___
 
 ### Honors and Awards
 ___
+
 <b>WTS Diane Woodend Jones Leadership Legacy Scholarship</b> Women’s Transportation Seminar (WTS) | 2018 <br>
 <b>WTS Leadership Legacy Scholarship</b> Women’s Transportation Seminar - Heart of Texas (WTS-HOT) | 2018 <br>
 <b>Leadership	Collaborative	Leader	Award</b> Women in	Engineering Program (WEP) UT-Austin | 2018 <br>
 <b>Professional Development Award </b> Graduate School - University of Texas at Austin | 2016 <br>
-<b>Innovation and Human Capital Program for Competitiveness Scholarship</b> Inter-American Development Bank (IDB) | 2015
+<b>Innovation and Human Capital Program for Competitiveness Scholarship</b> Inter-American Development Bank (IDB) and Ministry of Science and Technology (Costa Rica) | 2015
+
+
+
