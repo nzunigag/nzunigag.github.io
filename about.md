@@ -18,7 +18,8 @@ ___
   <li>Public Transportation </li>
   <li>Multimodal Performace Evaluation</li>
   <li>Intelligent Transportatin Systems (ITS) </li>
-  <li>Pavement Engineering </li>
+  <li>Pavement Performance </li>
+  <li>Pavement Maintainance and Rehabilitation </li>
 </ul> 
 
 ### Education
