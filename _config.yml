@@ -5,10 +5,11 @@ description: > # Meta description of Homepage
   Natalia Zuniga-Garcia personal website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nzunigag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  nzunigag
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Natalia
   links:
     - https://www.linkedin.com/in/nzunigag/
     - https://github.com/nzunigag
