@@ -13,9 +13,9 @@ Download my [teaching statement](/downloads/teaching_statement.pdf) (last update
 ### Past Courses
 ___
 -[CE 392 M Public Transportation Engineering](/downloads/2018_syllabus.pdf) The University of Texas at Austin | Fall 2018 <br>
-<b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl).
+<b>Teaching Assistant</b> (Prof.: Dr. Randy B. Machemehl). <br>
 -[CE 367 P Pavement Design and Performance](/downloads/2016_syllabus.pdf) The University of Texas at Austin | Spring / Fall 2016 <br>
-<b>Teaching Assistant</b> (Prof.: Dr. Jorge A. Prozzi).
+<b>Teaching Assistant</b> (Prof.: Dr. Jorge A. Prozzi). <br>
 -[IC 0810 Diseño Vial <i>(Geometric Design)</i>](/downloads/2014_programa.pdf) University of Costa Rica - Civil Engineering Department  | II-2014 <br>
 <b>Interim Professor</b> - Led weekly sessions for fourth-year Civil Engineering students.
 
