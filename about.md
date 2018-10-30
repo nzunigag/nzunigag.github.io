@@ -12,14 +12,14 @@ Hello! I am a Ph.D. student in [Transportation Engineering](http://www.caee.utex
 
 ### Research Areas
 ___
-<p align="justify">
-- Ride-Sourcing and Ride-Sharing <br>
-- Public Transportation <br>
-- Intelligent Transportatin Systems (ITS) <br>
-- Statistical Modeling <br>
-- Infrastructure Materials <br>
-- Pavement Engineering <br>
-</p>
+
+<ul style="list-style-type:none">
+  <li>Ride-Sourcing and Ride-Sharing </li>
+  <li>Public Transportation </li>
+  <li>Multimodal Performace Evaluation</li>
+  <li>Intelligent Transportatin Systems (ITS) </li>
+  <li>Pavement Engineering </li>
+</ul> 
 
 ### Education
 ___
