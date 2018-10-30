@@ -10,7 +10,7 @@ Hello! I am a Ph.D. student in [Transportation Engineering](http://www.caee.utex
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia.pdf) (Last update: November, 2018).</i>
 
-### Research Areas
+### Research Interest
 ___
 
 <ul style="list-style-type:none">
