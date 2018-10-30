@@ -9,6 +9,7 @@ permalink: /about/
 <p align="justify">
 Hello! I am a Ph.D. student in Transportation Engineering at the University of Texas at Austin. I work as a Graduate Research Assistance for the Center of Transportation Research (CTR). My supervisor is Dr. Randy B. Machemehl. 
 </p>
+[CV](/downloads/Natalia_ZunigaGarcia.pdf)(Updated on October, 2018)
 
 ### Education
 ___
@@ -21,5 +22,5 @@ ___
 <br>
 - <b>University of Costa Rica</b> <i>B.Sc. in Civil Engineering</i> | December 2012
 </p>
-[CV](/downloads/Natalia_ZunigaGarcia.pdf) 
+
 
