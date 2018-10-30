@@ -20,7 +20,6 @@ ___
   <li>Intelligent Transportation Systems (ITS) </li>
   <li>Pavement Performance Evaluation</li>
   <li>Pavement Maintainance and Rehabilitation </li>
-  <li>Statistical Modeling </li>
 </ul> 
 
 
