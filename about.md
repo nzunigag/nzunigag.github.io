@@ -26,7 +26,7 @@ ___
 ### Education
 ___
 <p align="justify">
-- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Eng.</i> | May 2020 <i>(Expected)</i>
+- <b>The University of Texas at Austin</b> <i>Ph.D. in Civil Engineering - Transportation Engineering </i> | May 2020 <i>(Expected)</i>
 <br>
 - <b>The University of Texas at Austin</b> <i>M.Sc. in Statistics and Data Sciences</i> | May 2018 
 <br>
