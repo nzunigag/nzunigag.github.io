@@ -29,14 +29,14 @@ ___
 
 <b>Explore UT - Cockrell School of Engineering</b> UT-Austin Open House | Mar. 2017 / 2018 <br>
 <b>Introduce a Girl to Engineering Day (Girl Day)</b> Women in Engineering Program (WEP) | Feb. 2017 / 2018 <br>
-<b>13th/14th Annual Gala</b> Women Transportation Seminar - Heart of Texas (WTS-HOT) | May. 2017/Apr. 2018 <br>
+<b>13th/14th Annual Gala</b> Women Transportation Seminar - Heart of Texas (WTS-HOT) | May. 2017 / Apr. 2018 <br>
 <b>Keep Austin Beautiful Adopt a Street Clean-Up</b> Capital Area Section of ITE (CAS-ITE) | Oct. 2017 <br>
 
 ### Other Activities
 ___
 
 <b>Runner</b> Longhorn Run at UT-Austin <i>Transportation Running Team</i> | 2015 - 2018 <br>
-<b>Soccer Player</b> Intramurals Sports at UT-Austin <i>Transportation Mixed Soccer Team</i> | 2016-2017 <br>
+<b>Soccer Player</b> Intramurals Sports at UT-Austin <i>Transportation Mixed Soccer Team</i> | 2016 - 2017 <br>
 <b>Peer Reviewer of Journal Articles</b> Transportation Research Board (TRB) <i>AFD90 Committee</i> | 2017 <br>
 
 ### Photo Gallery
