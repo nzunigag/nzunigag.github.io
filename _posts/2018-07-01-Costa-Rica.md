@@ -5,7 +5,7 @@ featured-img: Corcovado
 categories: [Travel]
 ---
 
-I want to give you my top reasons to visit Costa Rica. 
+I want to give you my top 10 reasons to visit Costa Rica. 
 
 - It's Pura Vida
 - No army
