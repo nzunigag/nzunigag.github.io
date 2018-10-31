@@ -38,10 +38,11 @@ ___
 
 ### Photo Gallery
 ___
-<div class=figure>
-  <p><img src="../assets/pictures/Emily.jpg"
-    width="300" height="264"
-    alt="Emily">
-  <p>Award
-</div>
+
+<p><img src="../assets/pictures/Emily.jpg"
+        ALIGN="center" 
+        width="300" height="264"
+        alt="Emily">
+<p>Award
+
 
