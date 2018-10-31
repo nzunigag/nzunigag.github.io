@@ -55,7 +55,7 @@ My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last 
 ALIGN="center" style="width:300px; height:225px;"
 />
 <br>
-<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center, October 2017.
+<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center (PRC) at UT-Austin, October 2017.
 
 <img src="../assets/pictures/Andy_1.jpg" 
 ALIGN="center" style="width:300px; height:400px;"
