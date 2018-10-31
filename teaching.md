@@ -20,13 +20,13 @@ ___
 ### Mentoring Experience
 ___
 
-<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin<br> Project: Speach Recognition Using Connectionist Temporal Classification. | Emily Nguyen$^1$  | Fall 2018<br>
-<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> WEP UT-Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang$^2$ | Fall 2017<br>
+<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin<br> Project: Speach Recognition Using Connectionist Temporal Classification. | Emily Nguyen*  | Fall 2018<br>
+<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> WEP UT-Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang+ | Fall 2017<br>
 <b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
 <b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
 
-$^1$<i>Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i>
-$^2$<i>Winner of the GLUE Participation Award</i>
+*Note: <i>Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i><br>
++Note: <i>Winner of the GLUE Participation Award</i>
 
 
 ### Certifications
