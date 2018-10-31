@@ -42,13 +42,11 @@ ___
 <img src="../assets/pictures/Emily.jpg" 
 ALIGN="center" style="width:300px; height:264px;"
 />
-<br>
-Emily Award
+My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.
 
 <img src="../assets/pictures/Tiffany.jpg" 
 ALIGN="center" style="width:300px; height:200px;"
 />
-<br>
-Tiffany Award
+My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.
 
 
