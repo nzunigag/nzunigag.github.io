@@ -63,7 +63,7 @@ ALIGN="center" style="width:300px; height:400px;"
 <br>
 <b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.
 
-<img src="../assets/pictures/Andy_2.JPG" 
+<img src="../assets/pictures/Andy.jpg" 
 ALIGN="center" style="width:300px; height:400px;"
 />
 <br>
