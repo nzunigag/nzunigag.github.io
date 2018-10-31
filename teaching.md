@@ -39,10 +39,9 @@ ___
 ### Photo Gallery
 ___
 
-<p><img src="../assets/pictures/Emily.jpg"
-        ALIGN="center" 
-        style="margin:10px 15px ; width:300px; height:375px;"
-        alt="Emily">
-<p>Award
+<img src="../assets/pictures/Emily.jpg" 
+ALIGN="left" style="margin:10px 15px ; width:300px; height:264px;"
+Award
+/>
 
 
