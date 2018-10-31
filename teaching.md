@@ -38,3 +38,5 @@ ___
 
 ### Photo Gallery
 ___
+
+<img src="{{ site.baseurl }}/assets/pictures/Emily.jpg" ALIGN="center" style="margin:10px 15px ; width:300px; height:264px;"/>
