@@ -39,7 +39,7 @@ ___
 ### Photo Gallery
 ___
 
-<img src="../assets/pictures/Emily.jpg"  ALIGN="center" style="margin:50px 15px ; width:300px; height:264px;"/>
+<img src="../assets/pictures/Emily.jpg"  ALIGN="center" style="margin:0px 100px ; width:300px; height:264px;"/>
 <br>
 My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.
 
