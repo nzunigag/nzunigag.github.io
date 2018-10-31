@@ -40,8 +40,13 @@ ___
 ___
 
 <img src="../assets/pictures/Emily.jpg" 
-ALIGN="left" style="margin:10px 15px ; width:300px; height:264px;"
-Award
+ALIGN="center" style="width:300px; height:264px;"
 />
+Emily Award
+
+<img src="../assets/pictures/Tiffany.jpg" 
+ALIGN="center" style="width:300px; height:264px;"
+/>
+Tiffany Award
 
 
