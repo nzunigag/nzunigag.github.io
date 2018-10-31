@@ -58,3 +58,15 @@ My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last 
 <img src="../assets/pictures/Andy_2.jpg" ALIGN="center" style="margin:0px 300px ; width:300px; height:400px;"/>
 <br>
 <b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
+
+			<tr valign=top>
+				<td width="50" align=right> <img src="mzaidi.jpg" alt="Mohammad" height="120" width="120"><br>
+				<td width="1000"> 	<strong>Mohammad Zaidi</strong> <br>
+								Mohammad is an undergraduate student in the <a href="http://www.caee.utexas.edu/ " target="_blank">
+  								Civil, Architectural and Environmental Engineering</a> department. He is currently working with me on 
+								geospatial data analytics. He will be using a geographic information system for probabilistically 
+								modeling interacting processes during a flood event.
+								
+								<br>
+				<td width="500">
+			</tr>
