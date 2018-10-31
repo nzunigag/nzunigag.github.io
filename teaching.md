@@ -34,37 +34,22 @@ Notes:<br>
 ___
 
 <b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits, including courses in Engineering and Education. | May 2020 <i>(Expected)</i> <br>
-<b>[Advanced Teaching Preparation Certificate](https://facultyinnovate.utexas.edu/gsd)</b> Faculty Innovation Center UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center]](https://facultyinnovate.utexas.edu/gsd) UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
 
 ### Photo Gallery
 ___
 
-<img src="../assets/pictures/Emily.jpg" 
-ALIGN="center" style="width:300px; height:264px;"
-/>
-<br>
-My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.
+| <img src="../assets/pictures/Emily.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:264px;"/> | 
+My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.|
 
-<img src="../assets/pictures/Tiffany_1.jpg" 
-ALIGN="center" style="width:300px; height:200px;"
-/>
-<br>
-My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.
+| <img src="../assets/pictures/Tiffany_1.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:200px;"/> | 
+My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.|
 
-<img src="../assets/pictures/Tiffany_2.jpg" 
-ALIGN="center" style="width:300px; height:225px;"
-/>
-<br>
-<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center, October 2017.
+| <img src="../assets/pictures/Tiffany_2.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> |
+<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center (PRC) at UT-Austin, October 2017.|
 
-<img src="../assets/pictures/Andy_1.jpg" 
-ALIGN="center" style="width:300px; height:400px;"
-/>
-<br>
-<b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.
+| <img src="../assets/pictures/Andy_1.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:400px;"/> | 
+<b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.|
 
-<img src="../assets/pictures/Andy_2.jpg" 
-ALIGN="center" style="width:300px; height:400px;"
-/>
-<br>
-<b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
+| <img src="../assets/pictures/Andy_2.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:400px;"/> | 
+<b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.|

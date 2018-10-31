@@ -19,6 +19,7 @@ ___
 ___
 
 <b>Student Member</b> Institute for Operations Research and the Management Sciences (INFORMS) | 2018 - Present <br>
+<b>Student Member</b> Women in Transportation Seminar (WTS) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> Institute of Transportation Engineers (ITE) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> Intelligent Transportation Society (ITS) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> American Society of Civil Engineers (ASCE) <i>ASCE Student Chapter</i> | 2017 - Present <br>
@@ -38,6 +39,11 @@ ___
 <b>Runner</b> Longhorn Run at UT-Austin <i>Transportation Running Team</i> | 2015 - 2018 <br>
 <b>Soccer Player</b> Intramurals Sports at UT-Austin <i>Transportation Mixed Soccer Team</i> | 2016 - 2017 <br>
 <b>Peer Reviewer of Journal Articles</b> Transportation Research Board (TRB) <i>AFD90 Committee</i> | 2017 <br>
+
+### Free Time
+___
+
+|Aside from my academic work and activities, I like to expend my time going to the gym, or hiking and jogging. My favorite hobby is scuba diving, and I love traveling to new places and getting to know different cultures.|
 
 ### Photo Gallery
 ___
