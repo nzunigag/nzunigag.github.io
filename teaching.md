@@ -67,4 +67,4 @@ ALIGN="center" style="width:300px; height:400px;"
 ALIGN="center" style="width:300px; height:400px;"
 />
 <br>
-<b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin during Summer 2015.
+<b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
