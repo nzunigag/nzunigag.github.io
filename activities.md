@@ -19,6 +19,7 @@ ___
 ___
 
 <b>Student Member</b> Institute for Operations Research and the Management Sciences (INFORMS) | 2018 - Present <br>
+<b>Student Member</b> Women in Transportation Seminar (WTS) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> Institute of Transportation Engineers (ITE) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> Intelligent Transportation Society (ITS) <i>UT-Austin Student Chapter</i> | 2017 - Present <br>
 <b>Student Member</b> American Society of Civil Engineers (ASCE) <i>ASCE Student Chapter</i> | 2017 - Present <br>
