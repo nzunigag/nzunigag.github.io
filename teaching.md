@@ -46,7 +46,7 @@ ALIGN="center" style="width:300px; height:264px;"
 Emily Award
 
 <img src="../assets/pictures/Tiffany.jpg" 
-ALIGN="center" style="width:300px; height:264px;"
+ALIGN="center" style="width:300px; height:200px;"
 />
 <br>
 Tiffany Award
