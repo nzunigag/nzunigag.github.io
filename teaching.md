@@ -38,7 +38,10 @@ ___
 
 ### Photo Gallery
 ___
-
-<img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"
-<figcaption>Emily</figcaption>/>
+<div class=figure>
+  <p><img src="../assets/pictures/Emily.jpg"
+    width="300" height="264"
+    alt="Emily">
+  <p>Award
+</div>
 
