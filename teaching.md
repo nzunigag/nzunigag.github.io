@@ -26,7 +26,7 @@ ___
 <b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
 
 Notes:<br>
-*<i> Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i><br>
+*<i>  Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i><br>
 ** <i>Winner of the GLUE Participation Award</i>
 
 
