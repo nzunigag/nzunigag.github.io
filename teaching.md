@@ -39,14 +39,10 @@ ___
 ### Photo Gallery
 ___
 
-|<img src="../assets/pictures/Emily.jpg" ALIGN="center" style="margin:0px 0px ; width:300px; height:264px;"/> | My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.|
-
-|<img src="../assets/pictures/Tiffany_1.jpg" ALIGN="center" style="margin:0px 0px ; width:300px; height:200px;"/>| My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.|
-
-|<img src="../assets/pictures/Tiffany_2.jpg" ALIGN="center" style="margin:0px 0px ; width:300px; height:225px;"/> |<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center (PRC) at UT-Austin, October 2017.|
-
-|<img src="../assets/pictures/Andy_1.jpg" ALIGN="center" style="margin:0px 0px ; width:300px; height:400px;"/>| <b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.|
-
+|<img src="../assets/pictures/Emily.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:264px;"/> | My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.|
+|<img src="../assets/pictures/Tiffany_1.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:200px;"/>| My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.|
+|<img src="../assets/pictures/Tiffany_2.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> |<b>Tiffany Tang</b> collecting pavement macrotexture information using laser technology at Pickle Research Center (PRC) at UT-Austin, October 2017.|
+|<img src="../assets/pictures/Andy_1.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:400px;"/>| <b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.|
 |<img src="../assets/pictures/Andy_2.jpg" ALIGN="center" style="margin:0px 0px ; width:300px; height:400px;"/>|<b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
 
 
