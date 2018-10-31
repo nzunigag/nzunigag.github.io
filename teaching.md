@@ -39,7 +39,6 @@ ___
 ### Photo Gallery
 ___
 
-<figure>
-  <img src="{{ site.baseurl }}/assets/pictures/Emily.jpg" ALIGN="center"; width:300px; height:264px;">
-  <figcaption>Emily</figcaption>
-</figure>
+<img src="{{ site.baseurl }}/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:375px;"
+<figcaption>Emily</figcaption>/>
+
