@@ -40,5 +40,10 @@ ___
 <b>Soccer Player</b> Intramurals Sports at UT-Austin <i>Transportation Mixed Soccer Team</i> | 2016 - 2017 <br>
 <b>Peer Reviewer of Journal Articles</b> Transportation Research Board (TRB) <i>AFD90 Committee</i> | 2017 <br>
 
+### Free Time
+___
+
+|Aside from my academic work and activities, I like to expend my time going to the gym, or hiking and jogging. My favorite hobby is scuba diving, and I love traveling to new places and getting to know different cultures.|
+
 ### Photo Gallery
 ___
