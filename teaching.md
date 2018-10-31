@@ -52,19 +52,19 @@ ALIGN="center" style="width:300px; height:200px;"
 My mentee <b>Tiffany Tang</b> received the <i>GLUE Participation Award</i> last January 2018 for her outstanding work during the GLUE program.
 
 <img src="../assets/pictures/Tiffany_2.jpg" 
-ALIGN="center" style="width:300px; height:200px;"
+ALIGN="center" style="width:300px; height:225px;"
 />
 <br>
 <b>Tiffany Tang</b> collecting pavement macrotexture information using the Sand Patch Test. Pickle Research Center, October 2017.
 
 <img src="../assets/pictures/Andy_1.jpg" 
-ALIGN="center" style="width:300px; height:200px;"
+ALIGN="center" style="width:300px; height:400px;"
 />
 <br>
 <b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester. Waco Texas, Summer 2015.
 
 <img src="../assets/pictures/Andy_2.jpg" 
-ALIGN="center" style="width:300px; height:200px;"
+ALIGN="center" style="width:300px; height:400px;"
 />
 <br>
 <b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber. Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
