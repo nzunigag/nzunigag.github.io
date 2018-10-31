@@ -64,7 +64,7 @@ ALIGN="center" style="width:300px; height:400px;"
 <b>Andres Sanchez</b> collecting pavement friction information using the Micro-Grip Tester in Waco, Texas during the Summer 2015.
 
 <img src="../assets/pictures/Andy.jpg" 
-ALIGN="center" style="width:300px; height:225px;"
+ALIGN="center" style="width:300px; height:400px;"
 />
 <br>
 <b>Andres Sanchez</b> collecting pavement noise information at an anechoic chamber in Ernest Cockrell Jr. Hall (ECJ) at UT-Austin, Summer 2015.
