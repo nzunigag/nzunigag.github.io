@@ -41,7 +41,7 @@ ___
 
 <p><img src="../assets/pictures/Emily.jpg"
         ALIGN="center" 
-        width="300" height="264"
+        style="margin:10px 15px ; width:300px; height:375px;"
         alt="Emily">
 <p>Award
 
