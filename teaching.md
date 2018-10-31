@@ -42,11 +42,13 @@ ___
 <img src="../assets/pictures/Emily.jpg" 
 ALIGN="center" style="width:300px; height:264px;"
 />
+<br>
 Emily Award
 
 <img src="../assets/pictures/Tiffany.jpg" 
 ALIGN="center" style="width:300px; height:264px;"
 />
+<br>
 Tiffany Award
 
 
