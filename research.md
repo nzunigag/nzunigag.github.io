@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports and theses. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment. Trial
+In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports and theses. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment. 
   
 ### Journal Publications
 ___
