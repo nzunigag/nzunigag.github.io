@@ -34,7 +34,7 @@ Notes:<br>
 ___
 
 <b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits, including courses in Engineering and Education. | May 2020 <i>(Expected)</i> <br>
-<b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center]](https://facultyinnovate.utexas.edu/gsd) UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center](https://facultyinnovate.utexas.edu/gsd) UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
 
 ### Photo Gallery
 ___
