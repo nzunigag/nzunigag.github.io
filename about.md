@@ -48,6 +48,6 @@ ___
 ___
 
 | <img src="../assets/pictures/award.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:300px;"/> | 
-I received the <b>Diane Woodend Jones Leadership Legacy Scholarship</b> during the <i>Women in Transportation Seminar (WTS) Annual Meeting</i> last May 2018 in San Diego, California.|
+I received the <b>Diane Woodend Jones Leadership Legacy Scholarship</b> during the <i>Women in Transportation Seminar (WTS) Annual Meeting</i> last May in San Diego, California.|
 
 
