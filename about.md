@@ -45,6 +45,8 @@ ___
 <b>Professional Development Award </b> Graduate School - University of Texas at Austin | 2016 <br>
 <b>Innovation and Human Capital Program for Competitiveness Scholarship</b> Inter-American Development Bank (IDB) and Ministry of Science and Technology (Costa Rica) | 2015
 
+___
+
 | <img src="../assets/pictures/award.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:300px;"/> | 
 I received the <b>Diane Woodend Jones Leadership Legacy Scholarship</b> during the <i>Women in Transportation Seminar (WTS) Annual Meeting</i> last May 2018 in San Diego, California.|
 
