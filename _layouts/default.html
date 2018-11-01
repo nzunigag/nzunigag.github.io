@@ -40,6 +40,18 @@ layout: compress
               Feel free to reach me with questions and comments using my 
               <a href="https://nzunigag.github.io/contact/">contact</a> information.  
             </p>
+                     
+          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+  
+            {% for post in site.posts %}
+              {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
 
     {% include footer.html %}
 
