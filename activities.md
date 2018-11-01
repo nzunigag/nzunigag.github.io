@@ -57,6 +57,9 @@ Longhorn Run, Transportation Running Team, April 2018.|
 | <img src="../assets/pictures/soccer.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> | 
 Intramurals, Transportation Mixed Soccer Team, March 2017.|
 
+| <img src="../assets/pictures/gym.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> | 
+Saturday community workout at my gym, October 2018.|
+
 | <img src="../assets/pictures/boyles.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> | 
 Dr. Boyles surprise birthday cake, October 2018.|
 
