@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-Here you can find information about my extracurricular activities. Trial.
+Here you can find information about my extracurricular activities. 
 
 ### Leadership Experience
 ___
