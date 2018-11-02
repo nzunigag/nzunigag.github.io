@@ -9,7 +9,7 @@ Contact me if you have any question, comment, or if you would like to collaborat
 ### How to find me?
 
 #### By Email 
-The easiest way to communicate with me is by [email](mailto:{{site.email}}) at nzuniga@utexas.edu.
+The easiest way to communicate with me is by email at [nzuniga@utexas.edu](mailto:{{site.email}}).
 
 #### By Mail
 My mailing address is: <br>
