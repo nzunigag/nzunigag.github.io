@@ -4,7 +4,7 @@ title: Current Projects
 permalink: /projects/
 ---
 
-In this section you will find information about my current projects. 
+This section provices information about my current projects. 
 
 ### Modeling Ride-Sourcing Trips Demand 
 ___
