@@ -17,6 +17,7 @@ Ride-sourcing trips intensity changes during a typical day in Austin, Texas.|
 ___
 For this project, we aim to estimate the user delay cost for a construction projects. The first step consists of volume-data gathering and processing. We obtain 24-hour volume information for the area of interest using historical traffic data. Then, we project this data to the year 2018 and estimate the average hourly-volume for four different periods: AM peak, PM peak, day off-peak, and night off-peak. Further, we implement different micro-simulation scenarios using the TSIS-CORSIM software. These scenarios provide us with delays estimation, and we can approximate user delay costs.  
 
+<embed src="https://www.computerhope.com/issues/floppy2.avi" type="video/x-msvideo"></embed>
 
 ### Transit Performance and Reliability Evaluation for Arterial Corridors
 ___
