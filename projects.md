@@ -4,7 +4,7 @@ title: Current Projects
 permalink: /projects/
 ---
 
-This section provides information about my current research projects. 
+This section provides information about my current research projects. To know more about my past projects and research experience, please visit my <a href="https://nzunigag.github.io/research/">Research section</a>.
 
 ### Modeling Ride-Sourcing Trips Demand 
 ___
