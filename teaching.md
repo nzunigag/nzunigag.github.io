@@ -27,7 +27,7 @@ ___
 
 Notes:<br>
 *<i>   Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i><br>
-** <i>Winner of the GLUE Participation Award</i>
+** <i>Winner of the 2017 GLUE Participation Award</i>
 
 
 ### Certifications
