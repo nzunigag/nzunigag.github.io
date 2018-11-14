@@ -20,21 +20,22 @@ ___
 ### Mentoring Experience
 ___
 
-<b>Directed Reading Program (DRP)</b> Department of Mathematics UT-Austin<br> Project: Speach Recognition Using Connectionist Temporal Classification. | Emily Nguyen*  | Fall 2018<br>
-<b>Graduates Linked with Undergraduates in Engineering (GLUE)</b> WEP UT-Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang** | Fall 2017<br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
-<b>University Transportation Center Undergraduate Internship (UTC-UI)</b><br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
+<b>[Directed Reading Program (DRP)](https://web.ma.utexas.edu/users/drp/about.html)</b> Department of Mathematics at UT-Austin<br> Project: Speach Recognition Using Connectionist Temporal Classification. | Emily Nguyen*  | Fall 2018<br>
+<b>[Graduates Linked with Undergraduates in Engineering (GLUE)](http://www.engr.utexas.edu/wep/career/glue)</b> Women in Engineering Program (WEP) at UT-Austin<br> Project: [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang** | Fall 2017<br>
+<b>[University Transportation Center Undergraduate Internship (UTC-UI)](https://ctr.utexas.edu/research/d-stop/education/utc-undergraduate-internship/)</b> USDOT’s University Transportation Centers<br> Project: Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
+<b>[University Transportation Center Undergraduate Internship (UTC-UI)](https://ctr.utexas.edu/research/d-stop/education/utc-undergraduate-internship/)</b> USDOT’s University Transportation Centers<br> Project: Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
 
 Notes:<br>
 *<i>   Winner of the [2018 Carey Scholarship](https://www.ices.utexas.edu/about/news/531/)</i><br>
-** <i>Winner of the GLUE Participation Award</i>
+** <i>Winner of the 2017 GLUE Participation Award</i>
 
 
 ### Certifications
 ___
 
-<b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering<br>Requirements: 16 graduate-level credits, including courses in Engineering and Education. | May 2020 <i>(Expected)</i> <br>
-<b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center](https://facultyinnovate.utexas.edu/gsd) UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering at UT-Austin<br>Requirements: 16 graduate-level credits, including courses in Engineering and Education. | May 2020 <i>(Expected)</i> <br>
+<b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center (FIC)](https://facultyinnovate.utexas.edu/gsd) at UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>Inclusive Classrooms Leadership Certificate</b> [Division of Diversity and Community Engagement (DDCE)](https://diversity.utexas.edu/) at UT-Austin<br>Requirement: 2-days workshop. | November 2018<br>
 
 ### Photo Gallery
 ___
