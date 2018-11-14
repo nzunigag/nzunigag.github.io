@@ -25,5 +25,5 @@ ___
 
 The main objective of this research is to develop an evaluation tool to provide transit performance and reliability information for arterial corridors in Austin, Texas. The evaluation is based on the fusion of the three main transit open data sources, including Automatic Vehicle Location (AVL), Automatic Passenger Count (APC) , and General Transit Feed Specification (GTFS)  datasets. Further, the analysis presented provides the exploration of different transit performance metrics and data visualization methods for corridor-level evaluation.
 
-| <img src="../assets/projects/transit.jpg" ALIGN="center" style="margin:0px 15px ; width:600px; height:450px;"/> | 
+| <img src="../assets/projects/transit.jpg" ALIGN="center" style="margin:0px 15px ; width:500px; height:375px;"/> | 
 Average dweell time estimation per corridor for years 2016 and 2017, City of Austin, Texas.|
