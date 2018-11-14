@@ -34,8 +34,8 @@ Notes:<br>
 ___
 
 <b>[Graduate Certificate in Engineering Education](http://www.engr.utexas.edu/graduate/certificate-engineering-education)</b> Cockrell School of Engineering at UT-Austin<br>Requirements: 16 graduate-level credits, including courses in Engineering and Education. | May 2020 <i>(Expected)</i> <br>
-<b>Inclusive Classrooms Leadership Certificate</b> [Division of Diversity and Community Engagement (DDCE)](https://diversity.utexas.edu/) at UT-Austin<br>Requirement: 2-days workshop. | November 2018<br>
 <b>Advanced Teaching Preparation Certificate</b> [Faculty Innovation Center (FIC)](https://facultyinnovate.utexas.edu/gsd) at UT-Austin<br>Requirements: 7 workshops and a qualifying teaching statement. | Fall 2018<br>
+<b>Inclusive Classrooms Leadership Certificate</b> [Division of Diversity and Community Engagement (DDCE)](https://diversity.utexas.edu/) at UT-Austin<br>Requirement: 2-days workshop. | November 2018<br>
 
 ### Photo Gallery
 ___
