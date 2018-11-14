@@ -78,5 +78,6 @@ Introducing a Girl to Engineering, Women in Engineering Program (WEP), February 
 | <img src="../assets/pictures/road_cleanup.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:225px;"/> | 
 Keep Austin Beautiful Adopt a Street Clean-Up with the Capital Area Section of ITE (CAS-ITE), October 2017.|
 
-
+| <img src="../assets/pictures/Buceo_1.JPG" ALIGN="center" style="margin:0px 15px ; width:333px; height:250px;"/> <img src="../assets/pictures/shark.gif" ALIGN="center" style="margin:0px 0px ; width:444px; height:250px;"/> | 
+Scuba diving with whitetip reef sharks at the Caño island in Costa Rica, December 2017.|
 
