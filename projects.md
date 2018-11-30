@@ -23,7 +23,7 @@ Average dweell time estimation per corridor for June during years 2016 and 2017,
 
 ### Work Zones Traffic Analysis
 ___
-For this project, we aim to estimate the user delay cost for a construction projects. The first step consists of volume-data gathering and processing. We obtain 24-hour volume information for the area of interest using historical traffic data. Then, we project this data to the year 2018 and estimate the average hourly-volume for four different periods: AM peak, PM peak, day off-peak, and night off-peak. Further, we implement different micro-simulation scenarios using the TSIS-CORSIM software. These scenarios provide us with delays estimation, and we can approximate user delay costs.  
+For this project, we aim to estimate the user delay cost for construction projects. The first step consists of volume-data gathering and processing. We obtain 24-hour volume information for the area of interest using historical traffic data. Then, we project this data to the year 2018 and estimate the average hourly-volume for four different periods: AM peak, PM peak, day off-peak, and night off-peak. Further, we implement different micro-simulation scenarios using the TSIS-CORSIM software. These scenarios provide us with delays estimation, and we can approximate user delay costs.  
 
 | <img src="../assets/projects/traff.gif" ALIGN="center" style="margin:0px 15px ; width:710px; height:400px;"/> | 
 Example of a microsimulation in an intersection in Dallas, Texas.|
