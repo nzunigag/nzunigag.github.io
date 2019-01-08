@@ -6,10 +6,6 @@ permalink: /teaching/
 
 In this section, you can find information about my teaching and mentoring experience, and details about my teaching certifications.
 
-### Teaching Statement
-___
-<i>Download my [teaching statement](/downloads/teaching_statement.pdf) (last update: 11/2018).</i>
-
 ### Courses
 ___
 
