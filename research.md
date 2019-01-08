@@ -16,7 +16,7 @@ ___
 <br>
 <b>3. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.](../research/pub/2018_MMLOS.pdf) Transportation Research Record, 0361198118776112.
 <br>
-<b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia</b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction). Transportation Research Record, 0361198118777384.
+<b>2. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia</b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction.pdf). Transportation Research Record, 0361198118777384.
 <br>
 <b>1. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pub/2018_LCCA.pdf). Transportation Research Record, 0361198118768515.
 
