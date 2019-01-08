@@ -23,7 +23,7 @@ ___
 
 ### Conference Proceedings
 ___
-<b>15. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Under review for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
+<b>15. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Accepted for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
 <b>14. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal Performance of Arterial Corridors.  Under review for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
