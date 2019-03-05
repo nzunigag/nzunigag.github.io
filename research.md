@@ -5,11 +5,16 @@ permalink: /research/
 ---
 
 In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports, theses, and magazine publications. You can also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_pHPRgoAAAAJ&view_op=list_works&gmla=AJsN-F5f6KE2TmxGoTIv-BT9B-WCJC4d_K-TCt6PpSAbzO8skCnewF-T2nCVCbjcWxi9eotjLBYeILaOn8f_wTOYH04lyEtwJv0AkBpM07FSM51_EpY6u7E) profile to know more about my research. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment. 
-  
-### Journal Publications
+
+### Working Papers
 ___
+
 <b>6. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
 <br>
+
+### Journal Publications
+___
+
 <b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 0361198118821598. 
