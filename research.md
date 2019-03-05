@@ -21,7 +21,7 @@ ___
 ### Journal Publications
 ___
 
-<b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_RideSourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Under review for publication</i>.
+<b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Under review for publication</i>.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 0361198118821598. 
 <br>
