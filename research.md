@@ -35,6 +35,8 @@ ___
 
 ### Conference Proceedings
 ___
+<b>15. Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility.  Under review for presentation in <i>Automated Vehicles Symposium,</i> Orlando, FL, July 2019.
+<br>
 <b>14. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Accepted for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
 <b>13. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
