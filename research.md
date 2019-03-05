@@ -41,7 +41,7 @@ ___
 <br>
 <b>13. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pres/2019_RideSourcing.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
-<b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pres/2019_Friction.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
+<b>12. Zuniga-Garcia, N.</b> and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pres/2019_Friction.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
 <b>11. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). [Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach](../research/pres/2018_Informs.pdf). 2018 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting, Phoenix, AZ, November 2018.
 <br>
