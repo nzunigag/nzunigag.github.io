@@ -5,12 +5,24 @@ permalink: /research/
 ---
 
 In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports, theses, and magazine publications. You can also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_pHPRgoAAAAJ&view_op=list_works&gmla=AJsN-F5f6KE2TmxGoTIv-BT9B-WCJC4d_K-TCt6PpSAbzO8skCnewF-T2nCVCbjcWxi9eotjLBYeILaOn8f_wTOYH04lyEtwJv0AkBpM07FSM51_EpY6u7E) profile to know more about my research. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment. 
-  
+
+### Working Papers
+___
+
+<b>4.</b> Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
+<br>
+<b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal
+Performance of Arterial Corridors. <i> Working Paper</i>.
+<br>
+<b>2.</b> Tec, M., J.G. Scott, and <b>N. Zuniga-Garcia</b>. Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis. <i> Working Paper</i>.
+<br>
+<b>1. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
+<br>
+
 ### Journal Publications
 ___
-<b>6. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
-<br>
-<b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.
+
+<b>5. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Under review for publication</i>.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 0361198118821598. 
 <br>
@@ -23,11 +35,13 @@ ___
 
 ### Conference Proceedings
 ___
+<b>15.</b> Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility.  Under review for presentation in <i>Automated Vehicles Symposium,</i> Orlando, FL, July 2019.
+<br>
 <b>14. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Accepted for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
-<b>13. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach. 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
+<b>13. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pres/2019_RideSourcing.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
-<b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. High-Definition Field Texture Measurements for Predicting Pavement Friction. 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
+<b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pres/2019_Friction.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
 <b>11. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). [Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach](../research/pres/2018_Informs.pdf). 2018 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting, Phoenix, AZ, November 2018.
 <br>
