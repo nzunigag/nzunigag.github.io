@@ -9,7 +9,7 @@ In this section, you will find preprints of my publications, conference proceedi
 ### Working Papers
 ___
 
-<b>4.</b> Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia<b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
+<b>4.</b> Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
 <br>
 <b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal
 Performance of Arterial Corridors. <i> Working Paper</i>.
