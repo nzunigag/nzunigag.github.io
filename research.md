@@ -11,8 +11,7 @@ ___
 
 <b>4.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
 <br>
-<b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal
-Performance of Arterial Corridors. <i> Working Paper</i>.
+<b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors. <i> Working Paper</i>.
 <br>
 <b>2.</b> Tec, M., J.G. Scott, and <b>N. Zuniga-Garcia</b>. Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis. <i> Working Paper</i>.
 <br>
