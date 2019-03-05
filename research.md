@@ -9,7 +9,7 @@ In this section, you will find preprints of my publications, conference proceedi
 ### Working Papers
 ___
 
-<b>4.</b> Gurumurthy, K.M., K.M. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
+<b>4.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
 <br>
 <b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal
 Performance of Arterial Corridors. <i> Working Paper</i>.
@@ -35,13 +35,13 @@ ___
 
 ### Conference Proceedings
 ___
-<b>15.</b> Gurumurthy, K.M., K.M. Kockelman and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility.  Under review for presentation in <i>Automated Vehicles Symposium,</i> Orlando, FL, July 2019.
+<b>15.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility.  Under review for presentation in <i>Automated Vehicles Symposium,</i> Orlando, FL, July 2019.
 <br>
 <b>14. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Transit Performance and Reliability Evaluation for Arterial Corridors.  Accepted for presentation in <i>Transportation Planning Applications Conference (TRBAppcon),</i> Portland, OR, June 2019.
 <br>
 <b>13. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pres/2019_RideSourcing.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
-<b>12. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pres/2019_Friction.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
+<b>12. Zuniga-Garcia, N.</b> and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pres/2019_Friction.pdf). 98th Annual Meeting of the Transportation Research Board, Washington, DC, January 2019.
 <br>
 <b>11. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. (2018). [Evaluating Spatial Pricing in Ride-Sourcing Systems: A Graph Fused Lasso Denoising Approach](../research/pres/2018_Informs.pdf). 2018 Institute for Operations Research and the Management Sciences (INFORMS) Annual Meeting, Phoenix, AZ, November 2018.
 <br>
@@ -72,7 +72,7 @@ ___
 <br>
 <b>2.</b> Smit, A. de Fortier, M. Trevino, <b> N. Zuniga-Garcia </b>, P. Buddhavarapu,  and J.A. Prozzi. (2016). [Selection	and	Design	of	Quiet	Pavement Surfaces](../research/rep/2016_Noise.pdf). Texas Department of Transportation (TxDOT) Report FHWA/TX-16/0-6819-1.
 <br>
-<b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2014_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
+<b>1.</b> Pujol-Mesalles, R., J. Aguero-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2014_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
 
 
 ### Theses
