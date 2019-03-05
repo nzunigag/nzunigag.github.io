@@ -9,7 +9,14 @@ In this section, you will find preprints of my publications, conference proceedi
 ### Working Papers
 ___
 
-<b>6. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
+<b>4.</b> Gurumurthy, K.M., K. Kockelman and <b>N. Zuniga-Garcia<b>. First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility. <i> Working Paper</i>.
+<br>
+<b>3. Zuniga-Garcia, N.</b>, N. Ruiz-Juri, N. Florez-Morcote, H.W. Ross, and R.B. Machemehl. Evaluation of the Multimodal
+Performance of Arterial Corridors. <i> Working Paper</i>.
+<br>
+<b>2.</b> Tec, M., J.G. Scott, and <b>N. Zuniga-Garcia</b>. Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis. <i> Working Paper</i>.
+<br>
+<b>1. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. Modeling Ride-Sourcing Trips Demand Using Mixture Models for Dynamic Spatial Poisson-Point Processes. <i> Working Paper</i>.
 <br>
 
 ### Journal Publications
