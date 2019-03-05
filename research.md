@@ -72,7 +72,7 @@ ___
 <br>
 <b>2.</b> Smit, A. de Fortier, M. Trevino, <b> N. Zuniga-Garcia </b>, P. Buddhavarapu,  and J.A. Prozzi. (2016). [Selection	and	Design	of	Quiet	Pavement Surfaces](../research/rep/2016_Noise.pdf). Texas Department of Transportation (TxDOT) Report FHWA/TX-16/0-6819-1.
 <br>
-<b>1.</b> Pujol-Mesalles, R., J. Agueros-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2014_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
+<b>1.</b> Pujol-Mesalles, R., J. Aguero-Velverde, and <b> N. Zuniga-Garcia </b> (2014). [Elaboración de auditorías de demanda y cálculo de parámetros operativos del servicio de transporte remunerado de personas, modalidad autobús - Interlineas](../research/rep/2014_Aresep.pdf). Report prepared for  Autoridad Reguladora de Servicios Públicos (ARESEP), San José, Costa Rica.
 
 
 ### Theses
