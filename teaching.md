@@ -15,7 +15,6 @@ ___
 
 ### Mentoring Experience
 ___
-<b>[Graduates Linked with Undergraduates in Engineering (GLUE)](http://www.engr.utexas.edu/wep/career/glue)</b> Women in Engineering Program (WEP) at UT-Austin<br> <b>Project:</b> [Characterization of Pavement Texture Based on Macrotexture Analysis](/downloads/2017_GLUE.pdf). | Tiffany Tang** | Fall 2017<br>
 <b>[University Transportation Center Undergraduate Internship (UTC-UI)](https://ctr.utexas.edu/research/d-stop/education/utc-undergraduate-internship/)</b> USDOT’s University Transportation Centers<br> <b>Project:</b> Predicting Friction with Improved Texture Characterization. | Luis Arruti | Summer 2016<br>
 <b>[University Transportation Center Undergraduate Internship (UTC-UI)](https://ctr.utexas.edu/research/d-stop/education/utc-undergraduate-internship/)</b> USDOT’s University Transportation Centers<br> <b>Project:</b> Laboratory Design of Quieter Asphalt Surfaces. | Andres Sanchez | Summer 2015
 
