@@ -52,9 +52,9 @@ ___
 <br>
 <b>7. Zuniga-Garcia, N.</b>, A. de Fortier Smit, and J.A. Prozzi. (2018). [Predicting Friction with Improved Texture Characterization](../research/pres/2018_Friction_1.pdf). 97th Annual Meeting of the Transportation Research Board, Washington, DC, January 2018.
 <br>
-<b>6.</b> Prozzi, J.A., <b>N. Zuniga-Garcia</b>, and A. de Fortier Smit. (2017). [Cuantificación de la macro- y micro-textura del pavimento para la estimación de fricción](../research/pres/2017_CCV.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
+<b>6.</b> Prozzi, J.A., <b>N. Zuniga-Garcia</b>, and A. de Fortier Smit. (2017). [Cuantificación de la macro- y micro-textura del pavimento para la estimación de fricción](../research/pres/2017_Friccion.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
 <br>
-<b>5.</b> Prozzi, J.A., <b>N. Zuniga-Garcia</b>, and W. Martinez-Alonso. (2017). [Análisis estocástico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/pres/2017_Friccion.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
+<b>5.</b> Prozzi, J.A., <b>N. Zuniga-Garcia</b>, and W. Martinez-Alonso. (2017). [Análisis estocástico del costo del ciclo de vida de técnicas de preservación de pavimentos](../research/pres/2017_CCV.pdf). XIX Congreso Ibero Latinoamericano del Asfalto (CILA), Medellín, Colombia, November 2017.
 <br>
 <b>4.</b> Martinez-Alonso, W., <b>N. Zuniga-Garcia </b>, A. de Fortier Smit, and J.A. Prozzi. (2017). [Life-Cycle Cost Analysis of Pavement Preservation Techniques in Texas](../research/pres/2017_LCCA.pdf). 96th Annual Meeting the Transportation Research Board, Washington, DC, January 2017.
 <br>
