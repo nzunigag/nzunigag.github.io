@@ -50,7 +50,7 @@ ___
 
 ___
 
-| <img src="../assets/pictures/acrp.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:400px;"/> | 
+| <img src="../assets/pictures/acrp.jpeg" ALIGN="center" style="margin:0px 15px ; width:400px; height:400px;"/> | 
 I was selected as a recipient of the <b>ACRP Graduate Research Award</b> for my project <i> Impact of Transportation Network Companies on Ground Access to Airports: A Case Study in Austin, Texas</i>. September 2019, Washington, D.C.|
 | <img src="../assets/pictures/award.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:300px;"/> | 
 I received the <b>Diane Woodend Jones Leadership Legacy Scholarship</b> during the <i>Women in Transportation Seminar (WTS) Annual Meeting</i>. May 2018, San Diego, California.|
