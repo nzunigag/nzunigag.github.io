@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Ph.D. Student in Transportation Engineering <br> University of Texas at Austin 
+  Ph.D. Candidate in Transportation Engineering <br> University of Texas at Austin 
 
 hero_img: /assets/img/main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
