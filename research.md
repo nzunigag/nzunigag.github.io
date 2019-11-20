@@ -9,7 +9,7 @@ In this section, you will find preprints of my publications, conference proceedi
 
 ### Journal Publications
 ___
-<b>1.</b> Tec, M., J.G. Scott, and <b>N. Zuniga-Garcia</b>. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](2019_GFEN.pdf). <i> Working Paper </i>. arXiv preprint arXiv:1911.08106.<
+<b>1.</b> Tec, M., J.G. Scott, and <b>N. Zuniga-Garcia</b>. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](../research/pub/2019_GFEN.pdf). <i> Working Paper </i>. arXiv preprint arXiv:1911.08106.<
 <br>
 <b>2.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf). <i> Under review for publication in Transportation Research Records</i>.
 <br>
