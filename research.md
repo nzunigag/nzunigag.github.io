@@ -13,7 +13,7 @@ ___
 <br>
 <b>2.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf). <i> Under review for publication in Transportation Research Records</i>.
 <br>
-<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Under review for publication in Transportation Research Part C</i>.
+<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Accepted for publication in Transportation Research Part C</i>.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 0361198118821598. 
 <br>
@@ -26,9 +26,9 @@ ___
 
 ### Conference Proceedings
 ___
-<b>1.</b> Machemehl, R.B., N. Zuniga-Garcia, N.A. Khwaja, K.D. Pruner, and M. Fu. [Estimating Road User Costs in Data-Limited or Time-Constrained Environments](../research/pres/2020_EstimatingCosts.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
+<b>1.</b> Machemehl, R.B., <b>N. Zuniga-Garcia</b>, N.A. Khwaja, K.D. Pruner, and M. Fu. [Estimating Road User Costs in Data-Limited or Time-Constrained Environments](../research/pres/2020_EstimatingCosts.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
 <br>
-<b>2.</b> Zuniga-Garcia, N.</b> and R.B. Machemehl. [Dockless Electric Scooters and Transit Use in an Urban/University Environment](../research/pres/2020_Scooters.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
+<b>2. Zuniga-Garcia, N.</b> and R.B. Machemehl. [Dockless Electric Scooters and Transit Use in an Urban/University Environment](../research/pres/2020_Scooters.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
 <br>
 <b>3.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf).  Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
 <br>
