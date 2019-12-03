@@ -9,19 +9,19 @@ In this section, you will find preprints of my publications, conference proceedi
 
 ### Journal Publications
 ___
-<b>1.</b> Tec, M., <b>N. Zuniga-Garcia</b>, R.B. Machemehl and J.G. Scott. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](../research/pub/2019_GFEN.pdf).  arXiv preprint arXiv:1911.08106. https://arxiv.org/abs/1911.08106 <i> Working Paper</i>.
+<b>1.</b> Tec, M., <b>N. Zuniga-Garcia</b>, R.B. Machemehl and J.G. Scott. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](../research/pub/2019_GFEN.pdf).  arXiv preprint arXiv:1911.08106. (https://arxiv.org/abs/1911.08106)[https://arxiv.org/abs/1911.08106]. <i> Working Paper</i>.
 <br>
 <b>2.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf). <i> Under review for publication in Transportation Research Records</i>.
 <br>
-<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329. https://arxiv.org/abs/1809.10329.<i> Accepted for publication in Transportation Research Part C</i>.
+<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329. (https://arxiv.org/abs/1809.10329)[https://arxiv.org/abs/1809.10329].<i> Accepted for publication in Transportation Research Part C</i>.
 <br>
-<b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 2673(1), 246–260. https://doi.org/10.1177/0361198118821598. 
+<b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 2673(1), 246–260. (https://doi.org/10.1177/0361198118821598)[https://doi.org/10.1177/0361198118821598]. 
 <br>
-<b>5. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.](../research/pub/2018_MMLOS.pdf) Transportation Research Record, 2672(15), 142–154. https://doi.org/10.1177/0361198118776112.
+<b>5. Zuniga-Garcia, N.</b>, H.W. Ross, and R.B. Machemehl. (2018). [Multimodal Level of Service Methodologies: Evaluation of the Multimodal Performance of Arterial Corridors.](../research/pub/2018_MMLOS.pdf) Transportation Research Record, 2672(15), 142–154. (https://doi.org/10.1177/0361198118776112)[https://doi.org/10.1177/0361198118776112].
 <br>
-<b>6. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia</b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction.pdf). Transportation Research Record, 2672(40), 395–407. https://doi.org/10.1177/0361198118777384.
+<b>6. </b> Kouchaki, S., H. Roshani, J.A. Prozzi, <b> N. Zuniga-Garcia</b>, and J.B. Hernandez. (2018). [Field Investigation of Relationship between Pavement Surface Texture and Friction](../research/pub/2018_Friction.pdf). Transportation Research Record, 2672(40), 395–407. (https://doi.org/10.1177/0361198118777384)[https://doi.org/10.1177/0361198118777384].
 <br>
-<b>7. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pub/2018_LCCA.pdf). Transportation Research Record, 2672(12), 10–19. https://doi.org/10.1177/0361198118768515.
+<b>7. Zuniga-Garcia, N.</b>, W. Martinez-Alonso, A. de Fortier Smit, F. Hong, and J.A. Prozzi. (2018). [Economic Analysis of Pavement Preservation Techniques](../research/pub/2018_LCCA.pdf). Transportation Research Record, 2672(12), 10–19. (https://doi.org/10.1177/0361198118768515)[https://doi.org/10.1177/0361198118768515].
 
 ### Conference Proceedings
 ___
