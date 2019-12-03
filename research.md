@@ -9,11 +9,11 @@ In this section, you will find preprints of my publications, conference proceedi
 
 ### Journal Publications
 ___
-<b>1.</b> Tec, M., <b>N. Zuniga-Garcia</b>, R.B. Machemehl and J.G. Scott. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](../research/pub/2019_GFEN.pdf).  arXiv preprint arXiv:1911.08106. <i> Working Paper</i>.
+<b>1.</b> Tec, M., <b>N. Zuniga-Garcia</b>, R.B. Machemehl and J.G. Scott. [Large-Scale Spatiotemporal Density Smoothing with the Graph-fused Elastic Net: Application to Ride-sourcing Driver Productivity Analysis](../research/pub/2019_GFEN.pdf).  arXiv preprint arXiv:1911.08106. https://arxiv.org/abs/1911.08106 <i> Working Paper</i>.
 <br>
 <b>2.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf). <i> Under review for publication in Transportation Research Records</i>.
 <br>
-<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329.<i> Accepted for publication in Transportation Research Part C</i>.
+<b>3. Zuniga-Garcia, N.</b>, M. Tec, J.G. Scott, N. Ruiz-Juri, and R.B. Machemehl. [Evaluation of Ride-Sourcing Search Frictions and Driver Productivity: A Spatial Denoising Approach](../research/pub/2019_Ridesourcing.pdf). arXiv preprint arXiv:1809.10329. https://arxiv.org/abs/1809.10329.<i> Accepted for publication in Transportation Research Part C</i>.
 <br>
 <b>4. Zuniga-Garcia, N.</b>, and J.A. Prozzi. [High-Definition Field Texture Measurements for Predicting Pavement Friction](../research/pub/2019_Friction.pdf). Transportation Research Record, 2673(1), 246–260. https://doi.org/10.1177/0361198118821598. 
 <br>
