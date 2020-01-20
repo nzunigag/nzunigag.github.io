@@ -25,11 +25,11 @@ ___
 
 ### Conference Proceedings
 ___
-<b>1.</b> Machemehl, R.B., <b>N. Zuniga-Garcia</b>, N.A. Khwaja, K.D. Pruner, and M. Fu. [Estimating Road User Costs in Data-Limited or Time-Constrained Environments](../research/pres/2020_EstimatingCosts.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
+<b>1.</b> Machemehl, R.B., <b>N. Zuniga-Garcia</b>, N.A. Khwaja, K.D. Pruner, and M. Fu. [Estimating Road User Costs in Data-Limited or Time-Constrained Environments](../research/pres/2020_EstimatingCosts.pdf). 99th Annual Meeting of the Transportation Research Board, Washington, DC, January 2020.
 <br>
-<b>2. Zuniga-Garcia, N.</b> and R.B. Machemehl. [Dockless Electric Scooters and Transit Use in an Urban/University Environment](../research/pres/2020_Scooters.pdf). Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
+<b>2. Zuniga-Garcia, N.</b> and R.B. Machemehl. [Dockless Electric Scooters and Transit Use in an Urban/University Environment](../research/pres/2020_Scooters.pdf). 99th Annual Meeting of the Transportation Research Board, Washington, DC, January 2020.
 <br>
-<b>3.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf).  Accepted for presentation in <i>99th Annual Meeting of the Transportation Research Board,</i> Washington, DC, January 2020.
+<b>3.</b> Gurumurthy, K.M., K.M. Kockelman, and <b>N. Zuniga-Garcia</b>. [First-Mile-Last-Mile Collector-Distributor System using Shared Autonomous Mobility](../research/pub/2020_FMLM.pdf). 99th Annual Meeting of the Transportation Research Board, Washington, DC, January 2020.
 <br>
 <b>4.</b> El Hachem, Y, <b>N. Zuniga-Garcia</b>, and J.A. Prozzi. (2019). [Uso de láser 3D para ajustar la dosis de ligante en tratamientos superficiales](../research/pres/2019_CILA.pdf). XX Congreso Ibero Latinoamericano del Asfalto (CILA), Guadalajara, Mexico, November 2019.
 <br>
