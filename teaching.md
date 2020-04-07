@@ -41,7 +41,7 @@ ___
 | <img src="../assets/pictures/mentor_award.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:264px;"/> | 
 I received the <i>2020 Glue Mentor Award</i> in January 2020.|
 
-| <img src="../assets/pictures/teaching.jpg" ALIGN="center" style="margin:0px 15px ; width:400px; height:264px;"/> | 
+| <img src="../assets/pictures/teaching.jpg" ALIGN="center" style="margin:0px 15px ; width:350px; height:264px;"/> | 
 Teaching the course <i>Public Transportation Engineering</i> in Fall 2019.|
 
 | <img src="../assets/pictures/Emily.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:264px;"/> | 
