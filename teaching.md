@@ -38,6 +38,9 @@ ___
 ### Photo Gallery
 ___
 
+| <img src="../assets/pictures/mentor_award.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:264px;"/> | 
+I received the <i>2020 Glue Mentor Award</i> in January 2020.|
+
 | <img src="../assets/pictures/Emily.jpg" ALIGN="center" style="margin:0px 15px ; width:300px; height:264px;"/> | 
 My mentee <b>Emily Nguyen</b> received the <i>2018 Carey Scholarship</i> last October 2018.|
 
