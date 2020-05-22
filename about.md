@@ -10,6 +10,11 @@ Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. candidate in [Transpor
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV.pdf) or [résumé](/downloads/Natalia_ZunigaGarcia_Resume.pdf) (last update: 05/2020). <br> Visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) profile.</i>  
 
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="nzunigag"><a class="LI-simple-link" href='https://www.linkedin.com/in/nzunigag?trk=profile-badge'>Natalia Zuniga-Garcia</a></div>
+
+
+
 ### Research Interest
 ___
   Ride-Sourcing and Ride-Sharing <br>
