@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with My Blog
-featured-img: sleek
+featured-img: Corcovado
 mathjax: true
 ---
 
