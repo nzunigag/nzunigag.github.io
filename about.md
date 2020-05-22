@@ -8,7 +8,7 @@ permalink: /about/
 
 Hi! My name is <b>Natalia Zuniga-Garcia</b>. I am a Ph.D. candidate in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistant for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My advisor is [Dr. Randy B. Machemehl](https://sites.utexas.edu/machemehl/).
 
-<i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV.pdf) or [résumé](/downloads/Natalia_ZunigaGarcia_Resume.pdf) (last update: 05/2020). <br> Visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) profile.</i>  
+<i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV.pdf) or [résumé](/downloads/Natalia_ZunigaGarcia_Resume.pdf) (last update: 04/2020). <br> Visit my [LinkedIn](https://www.linkedin.com/in/nzunigag/) profile.</i>  
 
 
 
