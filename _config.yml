@@ -19,9 +19,8 @@ social:
 navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Projects', link: '/projects'}
-  - {name: 'Research', link: '/research'}
+  - {name: 'Publications', link: '/publications'}
   - {name: 'Teaching', link: '/teaching'}
-  #- {name: 'Leadership', link: '/leadership'}
   - {name: 'Activities', link: '/activities'}
   - {name: 'Contact', link: '/contact'}
 
