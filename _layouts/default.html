@@ -27,29 +27,31 @@ layout: compress
     </div>
 
     <main class="site__content">
-      <div class="container">
-        <div class="page-content">
-
-          <center>
-              <h2> Hello! Welcome to my website.</h2>    
-
-        </div>
-      </div>
-    </main>
-
-    <!--
-    <main class="site__content">
       <section class="blog">
         <div class="container">
+               <center>
+                 <br>
+              <h2> Hello! Welcome to my website.</h2>         
+            <p> 
+              Here you can know more <a href="https://nzunigag.github.io/about/">about me</a>,
+              my <a href="https://nzunigag.github.io/research/">research</a> and 
+              <a href="https://nzunigag.github.io/teaching/">teaching</a> experience, and about other 
+              <a href="https://nzunigag.github.io/activities/">activities</a> I like to do. <br>
+              Feel free to reach me with questions and comments using my 
+              <a href="https://nzunigag.github.io/contact/">contact</a> information.  
+            </p>
+                     
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+  
             {% for post in site.posts %}
               {% include card.html %}
             {% endfor %}
+
+            <!-- {% include pagination.html %} -->
           </div>
         </div>
       </section>
     </main>
-    -->
 
     {% include footer.html %}
 
