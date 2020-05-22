@@ -11,15 +11,6 @@ Contact me if you have any question, comment, or if you would like to collaborat
 #### By Email 
 The easiest way to communicate with me is by email at [nzuniga@utexas.edu](mailto:{{site.email}}).
 
-#### By Mail
-My mailing address is: <br>
-Department of Civil, Architectural and Environmental Engineering <br>
-The University of Texas at Austin <br>
-ECJ Bldg., Ste. 6.506 (C1761), Austin, TX 78712.
-
-#### On Campus
-On campus, you can find me on the Ernest Cockrell Jr. Hall (ECJ) Building. I am in the 6th floor, office 6.506. 
-
 #### Fill in The Form
 You can also fill in the following form with your information, and I will get back to you.
 
