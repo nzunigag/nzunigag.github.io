@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Ten Reasons to Visit Costa Rica"
 featured-img: corcovado
 categories: [Travel]
