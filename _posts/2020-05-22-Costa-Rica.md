@@ -12,7 +12,7 @@ I want to share with you my top 10 reasons to visit Costa Rica:
 3. Oldest democracy in Latin America (since ~1889)
 4. Generates 99% of its electricity using natural sources 
 5. 28% of its area is protected as national parks, reserves, or wildlife refuges
-6. Contains 4-6% of the world's biodiversity
+6. Contains 4-6% of the world's biodiversity (with only 0.03% of the earth's surface)
 7. 200+ volcanic formations with 7 active volcanoes and 3 of them erupting regularly
 8. 1,290 km (800 mi) of coastline with the most stunning beaches of the world
 9. Surfing 2 oceans in one day
