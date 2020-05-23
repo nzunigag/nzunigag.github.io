@@ -5,15 +5,15 @@ featured-img: Corcovadov2
 categories: [Travel]
 ---
 
-I want to give you my top 10 reasons to visit Costa Rica. 
+I want to share with you my top 10 reasons to visit Costa Rica. 
 
-1. It's Pura Vida
-2. No army
-3. Natural-sourced energy
-4. Protected areas
-5. Exotic animals living in their natural habitat
-6. Active volcanos
-7. Awesome and warm beaches
-8. Two oceans
-9. Swimming with sharks
-10. Solid democracy
+1. Among the top 15 of the happiest countries in the world
+2. No army since 1948 (70+ years)
+3. Oldest democracy in Latin America (since ~1889)
+4. Generates 99% of its electricity using natural sources 
+5. 28% of its area is protected as national parks, reserves, or wildlife refuges
+6. Contains 4-6% of the world's biodiversity
+7. 200+ volcanic formations... but just 7 are active volcanoes ;)
+8. 1,290 km (800 mi) of coastline with the most stunning beaches of the world
+9. Surfing 2 oceans in one day
+10. It's Pura Vida
