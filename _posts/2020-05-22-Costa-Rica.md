@@ -16,4 +16,4 @@ I want to share with you my top 10 reasons to visit Costa Rica:
 7. 200+ volcanic formations with 7 active volcanoes and 3 of them erupting regularly
 8. 1,290 km (800 mi) of coastline with the most stunning beaches of the world touching two oceans
 9. One of the best coffee in the world
-10. It's Pura Vida
+10. It's pura vida ;)
