@@ -13,7 +13,7 @@ I want to give you my top 10 reasons to visit Costa Rica.
 4. Protected areas
 5. Tons of animals
 6. Active volcanos
-7. Awesome and warmed beaches
+7. Awesome and warm beaches
 8. Two oceans
 9. Swimming with sharks
 10. Solid democracy
