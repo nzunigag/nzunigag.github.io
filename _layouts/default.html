@@ -19,9 +19,6 @@ layout: compress
 
     {% include header.html %}
     
-    <h1 class="hero__title">{{ site.title | escape }}</h1>
-    <p class="hero__meta">Ph.D. Candidate in Transportation Engineering <br> The University of Texas at Austin</p>
-    
     <div class="hero lazyload" data-bg="{{site.url}}/assets/img/main.jpg">
       <div class="hero__wrap">
        <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
@@ -34,6 +31,11 @@ layout: compress
       <section class="blog">
         <div class="container">
            <center>
+             
+             <h1>{{ site.title | escape }}</h1>
+             <p class="hero__meta">Ph.D. Candidate in Transportation Engineering <br> The University of Texas at Austin</p>
+             
+             
               <h2> Hello! Welcome to my website</h2>
             <p> 
               Here you can know more about my <a href="https://nzunigag.github.io/projects/">projects</a>, 
