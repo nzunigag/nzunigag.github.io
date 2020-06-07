@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Current Projects
+title: Project 
 permalink: /projects/
 ---
 
-This section provides information about my current research projects. To know more about my past projects and research experience, please visit my <a href="https://nzunigag.github.io/research/">Research section</a>.
+This section provides information about my main research projects. 
 
 ### Modeling Ride-Sourcing Trips Demand 
 ___
