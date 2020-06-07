@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://github.com/nzunigag/nzunigag.github.io/blob/master/assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:300px;"/>
+<img src="../assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:300px;"/>
 
 Hi! My name is <b>Natalia Zuniga</b>. I am a Ph.D. candidate in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistant for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My advisor is [Dr. Randy B. Machemehl](https://sites.utexas.edu/machemehl/).
 
