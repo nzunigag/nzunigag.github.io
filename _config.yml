@@ -2,7 +2,7 @@
 title: Natalia Zuniga  # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
-  Natalia Zuniga-Garcia personal website.
+  Natalia Zuniga personal website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nzunigag.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nzunigag
