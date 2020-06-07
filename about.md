@@ -6,9 +6,6 @@ permalink: /about/
 
 <img src="../assets/img/nat.jpg" ALIGN="left" style="margin:10px 15px ; width:300px; height:300px;"/>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nzunigag"><a class="LI-simple-link" href='https://www.linkedin.com/in/nzunigag?trk=profile-badge'>Natalia Zuniga</a></div>
-
 Hi! My name is <b>Natalia Zuniga</b>. I am a Ph.D. candidate in [Transportation Engineering](http://www.caee.utexas.edu/transportation) at the University of Texas at Austin. I work as a Graduate Research Assistant for the [Center of Transportation Research (CTR)](https://ctr.utexas.edu/). My advisor is [Dr. Randy B. Machemehl](https://sites.utexas.edu/machemehl/).
 
 <i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV.pdf) or [résumé](/downloads/Natalia_ZunigaGarcia_Resume.pdf) (last update: 05/2020).</i> 
@@ -23,7 +20,12 @@ ___
   Intelligent Transportation Systems (ITS) <br>
   Pavement Performance Evaluation <br>
   Pavement Maintenance and Rehabilitation
-
+  
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nzunigag"><a class="LI-simple-link" href='https://www.linkedin.com/in/nzunigag?trk=profile-badge'>Natalia Zuniga</a></div>
+  
+  
+  
 ### Education
 ___
 
