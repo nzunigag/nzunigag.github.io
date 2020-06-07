@@ -19,16 +19,11 @@ layout: compress
 
     {% include header.html %}
     
-    <center>
-      <h1> Natalia Zuniga </h1>
-      <p> Ph.D. Candidate in Transportation Engineering <br> The University of Texas at Austin </p>
-    <\center>
-    
     
     <div class="hero lazyload" data-bg="{{site.url}}/assets/img/main.jpg">
       <div class="hero__wrap">
-       <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-       <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nzunigag"><a class="LI-simple-link" href='https://www.linkedin.com/in/nzunigag?trk=profile-badge'>LinkedIn Profile</a></div>
+        <h1 class="hero__title">{{ site.title | escape }}</h1>
+        <p class="hero__meta">{{ site.tagline }}</p>
         </div>
     </div>
     
@@ -64,6 +59,10 @@ layout: compress
             <i> <b>Downloads:</b> <a href="https://nzunigag.github.io/downloads/NataliaZuniga_Resume.pdf">Resume</a> and <a href="https://nzunigag.github.io/downloads/NataliaZuniga_CV.pdf">CV</a> (last update: 06/2020)</i> <br>
             </p>
             </justify>
+    
+    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+    <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nzunigag"><a class="LI-simple-link" href='https://www.linkedin.com/in/nzunigag?trk=profile-badge'>LinkedIn Profile</a></div>
+    
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
             {% for post in site.posts %}
