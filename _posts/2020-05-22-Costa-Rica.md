@@ -5,7 +5,7 @@ featured-img: Corcovadov2
 categories: [Travel]
 ---
 
-I want to share with you my top 10 reasons to visit Costa Rica: 
+This is the first blog post I write for my website, and I want to use it as a trial for my next posts. I start by sharing some exciting facts about my country of birth, *Costa Rica*. It is one of the most beautiful places in the world, and here I share my top 10 reasons why you should visit it:  
 
 1. Among the top 15 of the happiest countries in the world
 2. No army since 1948 (70+ years)
