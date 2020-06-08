@@ -13,7 +13,7 @@ social:
   links:
     - https://www.linkedin.com/in/nzunigag/
     - https://github.com/nzunigag
-    - https://www.instagram.com/nataliazunigag/
+   # - https://www.instagram.com/nataliazunigag/
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -21,8 +21,8 @@ navigation: # Navigation links
   - {name: 'Projects', link: '/projects'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'Teaching', link: '/teaching'}
-  - {name: 'Activities', link: '/activities'}
-  - {name: 'Contact', link: '/contact'}
+  # - {name: 'Activities', link: '/activities'}
+  #- {name: 'Contact', link: '/contact'}
 
 tagline: >
   Data Scientist 
@@ -31,10 +31,10 @@ hero_img: /assets/img/main.jpg # Main background image: use the path from /asset
 
 email: nzuniga@utexas.edu # email for form submission
 
-twitter_username: NataliaZunigaG # replace with your_twitter_username or comment to remove link from footer
+#twitter_username: NataliaZunigaG # replace with your_twitter_username or comment to remove link from footer
 github_username:  nzunigag # replace with your_github_username or comment to remove link from footer
-instagram_username: nataliazunigag # replace with your_instagram_username or comment to remove link from footer
-linkedin_username: nzunigag
+#instagram_username: nataliazunigag # replace with your_instagram_username or comment to remove link from footer
+#linkedin_username: nzunigag
 
 # disqus:
   # shortname: nataliazuniga # to enable comments replace with your_disqus_shortname
