@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Projects', link: '/projects'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'Teaching', link: '/teaching'}
-  - {name: 'Activities', link: '/activities'}
+  # - {name: 'Activities', link: '/activities'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
