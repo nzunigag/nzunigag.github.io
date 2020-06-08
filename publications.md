@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports, theses, and magazine publications. You can also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_pHPRgoAAAAJ&view_op=list_works&gmla=AJsN-F5f6KE2TmxGoTIv-BT9B-WCJC4d_K-TCt6PpSAbzO8skCnewF-T2nCVCbjcWxi9eotjLBYeILaOn8f_wTOYH04lyEtwJv0AkBpM07FSM51_EpY6u7E) and [Research Gate](https://www.researchgate.net/profile/Natalia_Zuniga-Garcia) profiles to know more about my research. Feel free to <a href="https://nzunigag.github.io/contact/">contact me</a> if you have any question or comment. 
+In this section, you will find preprints of my publications, conference proceedings material, and links to my technical reports, theses, and magazine publications. You can also visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=_pHPRgoAAAAJ&view_op=list_works&gmla=AJsN-F5f6KE2TmxGoTIv-BT9B-WCJC4d_K-TCt6PpSAbzO8skCnewF-T2nCVCbjcWxi9eotjLBYeILaOn8f_wTOYH04lyEtwJv0AkBpM07FSM51_EpY6u7E) and [Research Gate](https://www.researchgate.net/profile/Natalia_Zuniga-Garcia) profiles to know more about my research. Feel free to <a href="mailto:nzuniga@utexas.edu">contact me</a> if you have any question or comment. 
 
 
 ### Journal Publications
