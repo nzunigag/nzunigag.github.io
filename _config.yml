@@ -18,14 +18,14 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'About', link: '/about'}
-  - {name: 'Projects', link: '/projects'}
+  # - {name: 'Projects', link: '/projects'}
   - {name: 'Publications', link: '/publications'}
   - {name: 'Teaching', link: '/teaching'}
   # - {name: 'Activities', link: '/activities'}
   #- {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Computational Transportation Engineer <br> Argonne National Laboratory 
+  Computational Transportation Engineer <br> Argonne National Laboratory <br> nzuniga@anl.gov
 
 hero_img: /assets/img/main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
