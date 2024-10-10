@@ -25,7 +25,7 @@ navigation: # Navigation links
   #- {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Data Scientist 
+  Computational Transportation Engineer at Argonne National Laboratory 
 
 hero_img: /assets/img/main.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
