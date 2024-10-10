@@ -11,7 +11,7 @@ I obtained a Ph.D. in Civil Engineering with a focus on [Transportation Systems]
 I have published 25+ peer-reviewed papers in the field's top journals, with 500+ citations. My work has been presented at 50+ conferences worldwide. During the last five years, I received multiple competitive scholarships and awards for research, teaching, and leadership excellence.
 
 
-<i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV_2024.pdf.pdf) (last update: 10/2024).</i> 
+<i>Download my [CV](/downloads/Natalia_ZunigaGarcia_CV_2024.pdf) (last update: 10/2024).</i> 
 
 
 
