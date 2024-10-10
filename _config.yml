@@ -70,5 +70,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - github-pages
 
 remote_theme: janczizikow/sleek
